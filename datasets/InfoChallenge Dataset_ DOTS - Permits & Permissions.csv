@@ -1,0 +1,325 @@
+Permit Series,Time,Permit Full Name,Prefix,Permissions,Active,Physical,Online,Require Vehicle,Temporary
+Administrative,Annual,Administrative,AP,All Campus,Yes,Yes,No,No,No
+All Campus,Annual,All Campus,AC,All Campus,Yes,No,No,Yes,No
+Alumni,Annual,Alumni,AN,Alumni,Yes,Yes,No,No,No
+Any Campus Meter,Daily,Any Campus Meter,ACM,Campus Meter,Yes,Yes,No,No,Yes
+Breaksgiving,Temporary,Breaksgiving,BG,Breaksgiving,Yes,No,No,Yes,No
+Bus Bundle Pack,Daily,Bus Bundle Pack,BBP,Bus Bundle Pack,Yes,Yes,No,No,No
+Campus Meter,Daily,Campus Meter,10ACM,Campus Meter,Yes,Yes,No,No,Yes
+Carpool Permits,Daily,Carpool Permits,CP,Carpool,Yes,No,No,Yes,No
+Construction,Daily,Construction,12CST,Paper Service,Yes,Yes,No,No,Yes
+Courier,Annual,Courier,CR,Courier,Yes,Yes,No,No,No
+EMBA,Annual,EMBA,EMBA,EMBA,Yes,No,No,No,No
+Emeritus,Annual,Emeritus,EMBA,Emeritus,Yes,Yes,No,No,No
+Emeritus (LPR),Annual,LPR Emeritus,VEM,Emeritus,Yes,No,No,Yes,No
+Employee Bundle Packs,Daily,FS Bundle Packs,FBP,Bundle Pack-FS,Yes,Yes,No,No,No
+Faculty/Staff,Annual,Faculty/Staff,FS,4H,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,A,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,AA,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,B,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,BB,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,C,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,CC,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,DD,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,E,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,EE,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,F,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,FF,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,G,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,GG,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,H,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,HC,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,HH,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,II,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,J,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,JJ,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,K,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,KK,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,L,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,LL,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,Lot V - Anacostia,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,Lot V - Artemesia/Cypress,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,M,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,Medical-FS,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,MM,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,N,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,NN,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,O,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,P,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,PH,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,Q,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,QQ,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,R,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,RR,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,S,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,SA,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,SDStar,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,SS,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,T,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,TT,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,TV,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,U,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,UU,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,V,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,VM,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,W,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,WW,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,X,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,XX,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,Y,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,YC,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,YY,Yes,No,No,Yes,No
+Faculty/Staff,Annual,Faculty/Staff,FS,Z,Yes,No,No,Yes,No
+FAE,Annual,FAE (UMUC),17FAE,17FAE,Yes,No,No,Yes,No
+FAE,Summer,FAE (UMUC),17FAE,FS Summer,Yes,No,No,Yes,No
+FAE,Annual,FAE (UMUC),17FAE,18-19FAE,Yes,No,No,Yes,No
+FAE,Annual,FAE (UMUC),17FAE,19-20FAE,Yes,No,No,Yes,No
+FAE (2022-2023),Annual,(2022-2023) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+FAE (2023-2024),Annual,(2023-2024) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+FAE (2024-2025),Annual,(2024-2025) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+Faculty/Staff,Semester,Faculty/Staff,FS,4H,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,A,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,AA,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,B,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,BB,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,C,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,CC,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,DD,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,E,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,EE,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,F,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,FF,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,G,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,GG,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,H,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,HC,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,HH,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,II,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,J,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,JJ,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,K,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,KK,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,L,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,LL,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,Lot V - Anacostia,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,Lot V - Artemesia/Cypress,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,M,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,Medical-FS,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,MM,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,N,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,NN,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,O,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,P,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,PH,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,Q,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,QQ,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,R,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,RR,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,S,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,SA,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,SDStar,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,SS,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,T,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,TT,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,TV,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,U,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,UU,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,V,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,VM,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,W,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,WW,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,X,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,XX,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,Y,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,YC,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,YY,Yes,No,No,Yes,No
+Faculty/Staff,Semester,Faculty/Staff,FS,Z,Yes,No,No,Yes,No
+FAE,Semester,FAE (UMUC),17FAE,17FAE,Yes,No,No,Yes,No
+FAE,Semester,FAE (UMUC),17FAE,18-19FAE,Yes,No,No,Yes,No
+FAE,Semester,FAE (UMUC),17FAE,19-20FAE,Yes,No,No,Yes,No
+FAE (2022-2023),Semester,(2022-2023) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+FAE (2023-2024),Semester,(2023-2024) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+FAE (2024-2025),Semester,(2024-2025) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+FS Green Permits,Annual,(2024-2025) FS Green Permits,FSG,Faculty Staff Green Permit,Yes,No,No,No,No
+FS Green Permits,Semester,(2024-2025) FS Green Permits,FSG,Faculty Staff Green Permit,Yes,No,No,No,No
+Gate Cards,Annual,Gate Cards,0,Gate Card,Yes,Yes,No,No,No
+"Golden ID (Lot 1, 4, 6, 9, and 11)",Annual,Golden ID Commuter,STGIC,Golden ID,Yes,No,Yes,Yes,No
+Lot 1 Commuter,Annual,Lot 1 Commuter,ST1C,Lot 1,Yes,No,No,Yes,No
+Lot 10 Courtyards,Annual,Lot 10 Courtyards,010,Lot 10,Yes,No,No,Yes,No
+Lot 8 Courtyards,Annual,Lot 8 Courtyards,080,Lot 8,Yes,No,No,Yes,No
+Lot 11 Commuter,Annual,Lot 11 Commuter,ST11C,Lot 11 Commuter,Yes,No,No,Yes,No
+Lot 15,Annual,Lot 15 Resident,ST15R,Lot 15,Yes,No,No,Yes,No
+Lot 16,Annual,Lot 16 Resident,ST16R,Lot 16,Yes,No,Yes,Yes,No
+Lot 19,Annual,Lot 19 Resident,ST19R,Lot 19,Yes,No,No,Yes,No
+Lot 2,Annual,Lot 2 Resident,ST2R,Lot 2,Yes,No,No,Yes,No
+Lot 3C,Annual,Lot 3 Commuter,ST3C,Lot 3 Commuter,Yes,No,No,Yes,No
+Lot 3R,Annual,Lot 3 Resident,ST3R,Lot 3,Yes,No,No,Yes,No
+Lot 4 Commuter,Annual,Lot 4 Commuter,ST4C,Lot 4,Yes,No,No,Yes,No
+Lot 6 Commuter,Annual,Lot 6 Commuter,ST6C,Lot 6 Commuter,Yes,No,No,Yes,No
+Lot 6R,Annual,Lot 6 Resident,ST6R,Lot 6 Resident,Yes,No,No,Yes,No
+Lot 9 Commuter,Annual,Lot 9 Commuter,ST9C,Lot 9,Yes,No,No,Yes,No
+Medical Permit,Annual,Medical Permit,MP,Medical-FS,Yes,No,No,No,No
+Medical Permit,Annual,Medical Permit,MP,Medical-Student,Yes,No,No,No,No
+Lot 1 Commuter,Semester,Lot 1 Commuter,ST1C,Lot 1,Yes,No,No,Yes,No
+Lot 10 Courtyards,Semester,Lot 10 Courtyards,010,Lot 10,Yes,No,No,Yes,No
+Lot 8 Courtyards,Semester,Lot 8 Courtyards,080,Lot 8,Yes,No,No,Yes,No
+Lot 11 Commuter,Semester,Lot 11 Commuter,ST11C,Lot 11 Commuter,Yes,No,No,Yes,No
+Lot 15,Semester,Lot 15 Resident,ST15R,Lot 15,Yes,No,No,Yes,No
+Lot 16,Semester,Lot 16 Resident,ST16R,Lot 16,Yes,No,Yes,Yes,No
+Lot 19,Semester,Lot 19 Resident,ST19R,Lot 19,Yes,No,No,Yes,No
+Lot 2,Semester,Lot 2 Resident,ST2R,Lot 2,Yes,No,No,Yes,No
+Lot 3C,Semester,Lot 3 Commuter,ST3C,Lot 3 Commuter,Yes,No,No,Yes,No
+Lot 3R,Semester,Lot 3 Resident,ST3R,Lot 3,Yes,No,No,Yes,No
+Lot 4 Commuter,Semester,Lot 4 Commuter,ST4C,Lot 4,Yes,No,No,Yes,No
+Lot 6 Commuter,Semester,Lot 6 Commuter,ST6C,Lot 6 Commuter,Yes,No,No,Yes,No
+Lot 6R,Semester,Lot 6 Resident,ST6R,Lot 6 Resident,Yes,No,No,Yes,No
+Lot 9 Commuter,Semester,Lot 9 Commuter,ST9C,Lot 9,Yes,No,No,Yes,No
+Medical Permit,Semester,Medical Permit,MP,Medical-FS,Yes,No,No,No,No
+Medical Permit,Semester,Medical Permit,MP,Medical-Student,Yes,No,No,No,No
+Micromobility,Annual,"(23-24, 23-25, 24-26) Micromobility",MCR,Micromobility,Yes,Yes,No,No,No
+Motorcycle Only,Annual,Motorcycle (No Permit),MC,Scooter/MC,Yes,No,No,Yes,No
+Overnight Storage-Lot 11,Annual,Lot 11 Overnight Storage,ST11O,Overnight Storage-Lot 11,Yes,No,No,Yes,No
+Overnight Storage-Lot 16,Annual,Lot 16 Overnight Storage,ST16O,Overnight Storage-Lot 16,Yes,No,No,No,No
+Overnight Storage-Lot 17,Annual,Lot 17 Overnight Storage,ST17O,Overnight Storage-Lot 17,Yes,No,No,Yes,No
+Overnight Storage-Lot 19,Annual,Lot 19 Overnight Storage,ST19O,Overnight Storage-Lot 19,Yes,No,No,Yes,No
+Prepaid Meter - 1 day (10/31/16),Daily,,,Campus Meter,,,,,
+PUNCH OUT - ONE HOUR,Hourly,PUNCH OUT- ONE HOUR,YC,YC,Yes,Yes,No,No,No
+Quarantine/Isolation,Temporary,Quarantine/Isolation,QI,Quarantine,Yes,No,No,Yes,No
+Scooter,Annual,24-25 Scooter,SCR,Scooter/MC,Yes,Yes,No,No,No
+Motorcycle Only,Semester,Motorcycle (No Permit),MC,Scooter/MC,Yes,No,No,Yes,No
+Overnight Storage-Lot 11,Semester,Lot 11 Overnight Storage,ST11O,Overnight Storage-Lot 11,Yes,No,No,Yes,No
+Overnight Storage-Lot 16,Semester,Lot 16 Overnight Storage,ST16O,Overnight Storage-Lot 16,Yes,No,No,No,No
+Overnight Storage-Lot 17,Semester,Lot 17 Overnight Storage,ST17O,Overnight Storage-Lot 17,Yes,No,No,Yes,No
+Overnight Storage-Lot 19,Semester,Lot 19 Overnight Storage,ST19O,Overnight Storage-Lot 19,Yes,No,No,Yes,No
+Scooter,Semester,24-25 Scooter,SCR,Scooter/MC,Yes,Yes,No,No,No
+Service Permit (Paper),Daily,Service Permit (Paper),12SRV,Daily Service Permit (Paper),Yes,Yes,No,No,Yes
+Service-Annual,Annual,Service,SP,Service Permit,Yes,Yes,No,No,No
+Short Term Parking,Daily,Short Term Parking,STP,Short Term Parking,Yes,Yes,No,No,Yes
+Stadium Drive Garage Commuter,Annual,Lot SDG Commuter,STSDGC,Stadium Drive Garage,Yes,No,No,Yes,No
+Student Bundle Pack,Daily,Student Bundle Pack,14SBP,Bundle Pack-Student,Yes,Yes,No,No,No
+Student Daily Permits,Daily,Student Daily Permits,SDP,Bundle Pack-Student,Yes,No,No,Yes,No
+Student Lot B,Annual,Student Lot B,STBC,Student Lot B,Yes,No,Yes,Yes,No
+Student Lot U2,Annual,Student Lot U2,STUC,Student Lot U,Yes,No,No,Yes,No
+Student Lot UU,Annual,Student Lot UU,STUUC,Student Lot UU,Yes,No,Yes,Yes,No
+Student Lot XX,Annual,Student Lot XX,STXC,Student Lot XX,Yes,No,Yes,Yes,No
+Student Lot B,Semester,Student Lot B,STBC,Student Lot B,Yes,No,Yes,Yes,No
+Student Lot U2,Semester,Student Lot U2,STUC,Student Lot U,Yes,No,No,Yes,No
+Student Lot UU,Semester,Student Lot UU,STUUC,Student Lot UU,Yes,No,Yes,Yes,No
+Student Lot XX,Semester,Student Lot XX,STXC,Student Lot XX,Yes,No,Yes,Yes,No
+Summer Commuter,Summer,Summer Commuter,SSC,Summer Commuter,Yes,No,No,Yes,No
+Summer Resident,Summer,Summer Resident,SSR,Summer Resident,Yes,No,No,Yes,No
+Surface Lot,Daily,Surface Lot,12TMP,4H,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,A,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,AA,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,All Campus,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,B,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,BB,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,C,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,CC,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,DD,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,E,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,EE,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,ER,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,F,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,FF,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,G,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,GG,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,H,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,HH,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,II,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,J,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,JJ,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,K,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,KK,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,L,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,LL,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,M,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,MM,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,N,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,NN,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,O,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,OO,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,P,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,PH,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,PP,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,Q,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,QQ,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,R,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,RR,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,S,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,SA,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,SDStar,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,SS,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,Stadium Drive Garage,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,T,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,TT,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,TV,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,U,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,UU,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,V,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,VM,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,W,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,WW,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,X,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,XX,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,Y,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,YC,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,YY,Yes,Yes,No,No,Yes
+Surface Lot,Daily,Surface Lot,12TMP,Z,Yes,Yes,No,No,Yes
+Temporary FS,Temporary,Temporary Faculty/Staff,TFS,FS Summer,Yes,No,No,Yes,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,A,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,AA,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,B,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,BB,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,C,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,CC,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,DD,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,E,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,EE,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,F,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,FF,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,G,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,GG,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,H,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,HH,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,II,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,J,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,JJ,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,K,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,KK,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,L,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,LL,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,M,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,MM,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,N,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,NN,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,O,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,P,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,PH,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Q,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,QQ,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,R,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,RR,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,S,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,SDStar,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,SS,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Student Lot B,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Student Lot UU,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Student Lot XX,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,T,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,TT,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,TV,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,U,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,UU,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,V,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,W,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,WW,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,X,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,XX,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Y,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,YC,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,YY,Yes,No,No,No,No
+Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Z,Yes,No,No,No,No
+Time and Materials,Temporary,Time and Materials,TM,Time and Materials,Yes,Yes,No,No,No
+TMP,Temporary,Temporary Permit,TMP,TMP,Yes,Yes,No,No,Yes
+Visitor After Hours,Annual,Visitor After Hours,VS,Visitor After Hours,Yes,Yes,No,No,No

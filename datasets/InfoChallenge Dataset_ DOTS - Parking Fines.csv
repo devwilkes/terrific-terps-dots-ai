@@ -1,0 +1,77 @@
+Violation Code,Fine,Description of the Violation,Academic Year,Violation vs. Warning,Fine Type
+7A,$100.00,Public Safety,2024-2025,Violation,Nuisance
+7AW,$0,Warning - Public Safety,2024-2025,Warning,Warning
+7B,$300.00,Illegal display and/or receipt of permit or campus registered license plate,2024-2025,Violation,Fraud
+7BW,$0,Warning - Illegal display and/or receipt of permit or campus registered license plate,2024-2025,Warning,Warning
+7C,$300.00,Illegally parked in disabled space/transfer area,2024-2025,Violation,Safety
+7CW,$0,Warning - Illegally parked in disabled space/transfer area,2024-2025,Warning,Warning
+7D,$85.00,Illegally parked in a Courier permit parking space,2024-2025,Violation,Inconvenience
+7DW,$0,Warning - Illegally parked in a Courier permit parking space,2024-2025,Warning,Warning
+7E,$85.00,Parked in other than assigned area,2024-2025,Violation,Inconvenience
+7EW,$0,Warning - Parked in other than assigned area,2024-2025,Warning,Warning
+7F,$15.00,Parked outside of control lines,2024-2025,Violation,Nuisance
+7FW,$0,Warning - Parked outside of control lines,2024-2025,Warning,Warning
+7G,$85.00,Illegally parked in violation of posted DOTS signage,2024-2025,Violation,Inconvenience
+7GW,$0,Warning - Illegally parked in violation of posted DOTS signage,2024-2025,Warning,Warning
+7H,$45.00,Expired parking meter/pay station,2024-2025,Violation,Nuisance
+7HW,$0,Warning - Expired parking meter/pay station,2024-2025,Warning,Warning
+7I,$150.00,Illegally parked in a fire lane,2024-2025,Violation,Safety
+7IW,$0,Warning - Illegally parked in a fire lane,2024-2025,Warning,Warning
+7J,$85.00,Illegally parked in a Service permit-only space,2024-2025,Violation,Inconvenience
+7JW,$0,Warning - illegally parked in a Service permit-only space,2024-2025,Warning,Warning
+7K,$85.00,Illegally parked in a restricted lot,2024-2025,Violation,Inconvenience
+7KW,$0,Warning - illegally parked in a restricted lot,2024-2025,Warning,Warning
+7L,$170.00,More than one vehicle per registrant on campus at the same time (fine per vehicle),2024-2025,Violation,Fraud
+7LW,$0,Warning - More than one vehicle per registrant on campus at the same time (fine per vehicle),2024-2025,Warning,Warning
+7M,$50.00,Permit or campus registered license plate improperly displayed,2024-2025,Violation,Nuisance
+7MW,$0,Warning - Permit or campus registered license plate improperly displayed,2024-2025,Warning,Warning
+7N,$300.00,Illegally entering a controlled lot,2024-2025,Violation,Fraud
+7NW,$0,Warning - Illegally entering a controlled lot,2024-2025,Warning,Warning
+7P,$500.00,Illegal use of State-issued disabled permit,2024-2025,Violation,Safety
+7PW,$0,Warning - Illegal use of State-issued disabled permit,2024-2025,Warning,Warning
+7R,$300.00,Fraudulent use of documents/registration/validation or pin codes,2024-2025,Violation,Fraud
+7RW,$0,Warning - Fraudulent use of documents/registration/validation or pin codes,2024-2025,Warning,Warning
+7S,$85.00,Athletics Terrapin Club Violation,2024-2025,Violation,Inconvenience
+7SW,$0,Warning - Athletics Terrapin Club Violation,2024-2025,Warning,Warning
+RV,$100,Towing - Relocation Fee,2024-2025,Violation,Towing
+RVW,$0,Warning - Towing - Relocation Fee,2024-2025,Warning,Warning
+TV,$150,Towing - Impounding Fee,2024-2025,Violation,Towing
+TVW,$0,Warning - Towing - Impounding Fee,2024-2025,Warning,Warning
+7A,$100.00,Public Safety,2023-2024,Violation,Nuisance
+7AW,$0,Warning - Public Safety,2023-2024,Warning,Warning
+7B,$300.00,Illegal display and/or receipt of permit or campus registered license plate,2023-2024,Violation,Fraud
+7BW,$0,Warning - Illegal display and/or receipt of permit or campus registered license plate,2023-2024,Warning,Warning
+7C,$300.00,Illegally parked in disabled space/transfer area,2023-2024,Violation,Safety
+7CW,$0,Warning - Illegally parked in disabled space/transfer area,2023-2024,Warning,Warning
+7D,$85.00,Illegally parked in a Courier permit parking space,2023-2024,Violation,Inconvenience
+7DW,$0,Warning - Illegally parked in a Courier permit parking space,2023-2024,Warning,Warning
+7E,$85.00,Parked in other than assigned area,2023-2024,Violation,Inconvenience
+7EW,$0,Warning - Parked in other than assigned area,2023-2024,Warning,Warning
+7F,$15.00,Parked outside of control lines,2023-2024,Violation,Nuisance
+7FW,$0,Warning - Parked outside of control lines,2023-2024,Warning,Warning
+7G,$85.00,Illegally parked in violation of posted DOTS signage,2023-2024,Violation,Inconvenience
+7GW,$0,Warning - Illegally parked in violation of posted DOTS signage,2023-2024,Warning,Warning
+7H,$45.00,Expired parking meter/pay station,2023-2024,Violation,Nuisance
+7HW,$0,Warning - Expired parking meter/pay station,2023-2024,Warning,Warning
+7I,$150.00,Illegally parked in a fire lane,2023-2024,Violation,Safety
+7IW,$0,Warning - Illegally parked in a fire lane,2023-2024,Warning,Warning
+7J,$85.00,Illegally parked in a Service permit-only space,2023-2024,Violation,Inconvenience
+7JW,$0,Warning - illegally parked in a Service permit-only space,2023-2024,Warning,Warning
+7K,$85.00,Illegally parked in a restricted lot,2023-2024,Violation,Inconvenience
+7KW,$0,Warning - illegally parked in a restricted lot,2023-2024,Warning,Warning
+7L,$170.00,More than one vehicle per registrant on campus at the same time (fine per vehicle),2023-2024,Violation,Fraud
+7LW,$0,Warning - More than one vehicle per registrant on campus at the same time (fine per vehicle),2023-2024,Warning,Warning
+7M,$50.00,Permit or campus registered license plate improperly displayed,2023-2024,Violation,Nuisance
+7MW,$0,Warning - Permit or campus registered license plate improperly displayed,2023-2024,Warning,Warning
+7N,$300.00,Illegally entering a controlled lot,2023-2024,Violation,Fraud
+7NW,$0,Warning - Illegally entering a controlled lot,2023-2024,Warning,Warning
+7P,$500.00,Illegal use of State-issued disabled permit,2023-2024,Violation,Safety
+7PW,$0,Warning - Illegal use of State-issued disabled permit,2023-2024,Warning,Warning
+7R,$300.00,Fraudulent use of documents/registration/validation or pin codes,2023-2024,Violation,Fraud
+7RW,$0,Warning - Fraudulent use of documents/registration/validation or pin codes,2023-2024,Warning,Warning
+7S,$85.00,Athletics Terrapin Club Violation,2023-2024,Violation,Inconvenience
+7SW,$0,Warning - Athletics Terrapin Club Violation,2023-2024,Warning,Warning
+RV,$100,Towing - Relocation Fee,2023-2024,Violation,Towing
+RVW,$0,Warning - Towing - Relocation Fee,2023-2024,Warning,Warning
+TV,$150,Towing - Impounding Fee,2023-2024,Violation,Towing
+TVW,$0,Warning - Towing - Impounding Fee,2023-2024,Warning,Warning

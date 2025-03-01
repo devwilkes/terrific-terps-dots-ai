@@ -1,0 +1,84 @@
+Customer,Permit,Time,Permissions,"Personnel Type (Fac/Staff, Student, Visitor)",Date,Time,Eligible Lots (Not Exhaustive for some examples)
+Customer 1,ADA Placard,,,Visitor,09/19/2024,12:00 PM,ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 2,Surface Lot,Daily,Lot 1,Visitor,03/05/2025,10:15 AM,Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f
+Customer 3,No Permit,,,Visitor,02/05/2025,2:00 PM,ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 4,No Permit,,,Visitor,04/28/2025,4:30 PM,Lot 10a; Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 4a; Lot 4b; Lot 4h; Lot 4m; Lot 4n; Lot 6; Lot 9b; ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 5,Validation Code/Meter Permit,Daily,Paid Parking Area,Visitor,11/08/2024,2:30 PM,ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 40,Basketball Permit,Daily,,Visitor,02/28/2024,7:00 PM,Regents Drive Garage
+Customer 41,Hearing and Speech Clinic Permit,Daily,,Visitor,09/16/2024,11:15 AM,A
+Customer 42,Event Attendee (Reserved parking provided),Daily,ULG,Visitor,02/12/2025,9:30 AM,Union Lane Garage
+Customer 43,Event Attendee (Parking not provided),,,Visitor,01/25/2025,1:45 PM,Lot 10a; Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 4a; Lot 4b; Lot 4m; Lot 4n; Lot 6; Lot 9b; ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 44,Visitor After Hours Permit,,Visitor After Hours,Visitor,03/28/2025,8:00 PM,Lot 10a; Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 4a; Lot 4b; Lot 4h; Lot 4m; Lot 4n; Lot 6; Lot 9b; ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 45,Time & Materials Permit,Daily,T&M,Visitor,04/29/2025,11:15 AM,State Vehicle or Service Vehicle spaces
+Customer 46,Service Permit,Daily,Service,Visitor,10/30/2024,10:45 AM,State Vehicle or Service Vehicle spaces
+Customer 6,Annual FS Permit,Annual,RR,Faculty/Staff,12/17/2024,9:15 AM,A; AA; B; BB; C1; C2; CC; DD; E; F; FF; G; GG; GG2; HH; II; J; JJ1; JJ3; K; KK; L; LL; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2f; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 6; Lot 9b; R2; MM; N1/4/6/8/9; N3/7; N5; NN; O1/3; O5; P; PH1; Q; Q1; QQ; R; RR; S3/4; S7/8; S9; SA; SDG; SDStar; SS; Stadium Drive Garage; T; TT; TV; U1; U2; UU; V; VM; W; W2; X; XX; Y; YC; YY; Z; 
+Customer 7,Semester FS Permit,Semester,A,Faculty/Staff,11/06/2024,3:55 PM,A; HH; K; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 6; Lot 9b; P; Stadium Drive Garage; U1; U2; V; X; XX; Z
+Customer 8,FS Bundle Pack (2 Day/Week),Daily,Z,Faculty/Staff,02/19/2024,7:35 AM,K; P; U; V; X1; XX1; Z; Stadium Drive Garage; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2b; Lot 2f; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 4k; Lot 4m; Lot 4n; Lot 6; Lot 9b
+Customer 9,FS Bundle Pack (3 Day/Week),Daily,Z,Faculty/Staff,05/03/2024,12:35 PM,K; P; U; V; X1; XX1; Z; Stadium Drive Garage; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2b; Lot 2f; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 4k; Lot 4m; Lot 4n; Lot 6; Lot 9b
+Customer 10,ADA Placard Only,,,Faculty/Staff,07/30/2024,8:45 AM,ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 11,Annual FS Permit + ADA,Annual,P,Faculty/Staff,06/18/2024,10:30 AM,K; P; U; V; X1; XX1; Z; Stadium Drive Garage; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 4k; Lot 4m; Lot 4n; Lot 6; Lot 9b
+Customer 12,Semester FS Permit + ADA,Semester,Q,Faculty/Staff,11/11/2024,2:30 PM,K; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 6; Lot 9b; P; Q; Q1; Stadium Drive Garage; U1; U2; V; X; XX; Z
+Customer 13,Semester FS Permit + Medical Permit,Semester,B,Faculty/Staff,05/05/2025,11:35 PM,A; AA; B; BB; C1; C2; CC; DD; E; FF; G; GG; GG2; HH; II; J; JJ1; JJ3; K; KK; L; LL; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2f; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 6; Lot 9b; R2; MM; N1/4/6/8/9; N3/7; N5; NN; O1/3; O5; P; PH1; Q; Q1; QQ; R; RR; S3/4; S7/8; S9; SDG; SS; Stadium Drive Garage; T; TT; U1; U2; UU; V; W; X; XX; Y; YC; YY; Z
+Customer 14,Annual FS Permit + All Campus,Annual,HH,Faculty/Staff,06/12/2025,9:00 AM,A; AA; B; BB; C1; C2; CC; DD; E; FF; G; GG; GG2; HH; II; J; JJ1; JJ3; K; KK; L; LL; Lot 10a; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2f; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 6; Lot 8; Lot 9b; R2; MM; N1/4/6/8/9; N3/7; N5; NN; O1/3; O5; P; PH1; Q; Q1; QQ; R; RR; S3/4; S7/8; S9; SDG; SS; Stadium Drive Garage; T; TT; TV; U1; U2; UU; V; W; X; XX; Y; YC; YY; Z
+Customer 15,UMGC Permit,Annual,FAE,Faculty/Staff,02/24/2025,10:35 AM,A; AA; B; BB; C1; C2; CC; DD; E; FF; G; GG; GG2; HH; II; J; JJ1; JJ3; K; KK; L; LL; R2; MM; N1/4/6/8/9; N3/7; N5; NN; O1/3; P; PH1; Q; Q1; QQ; R; RR; S3/4; S7/8; S9; SDG; SS; Stadium Drive Garage; T; TT; U1; U2; UU; V; W; X; XX; Y; YC; YY; Z
+Customer 16,No Permit,,,Faculty/Staff,07/24/2024,7:00 PM,Lot 10a; Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 4a; Lot 4b; Lot 4h; Lot 4m; Lot 4n; Lot 6; Lot 9b; ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 17,Rainy Day Bike Permit,Daily,Z,Faculty/Staff,09/24/2024,2:15 PM,K; Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 4a; Lot 4b; Lot 4h; Lot 6; Lot 9b; P; Stadium Drive Garage; X; XX; Z
+Customer 18,Annual Permit + Medical Permit,Annual,K,Faculty/Staff,03/28/2025,9:15 PM,A; AA; BB; DD; E; GG; HH; II; N3/7; O1/3; Q; Q1; QQ; S3/4; T; W;W2; Y
+Customer 19,Retiree Permit,Annual,Z,Faculty/Staff,01/31/2025,11:45 AM,K; Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 4a; Lot 4b; Lot 4h; Lot 6; Lot 9b; P; Stadium Drive Garage; X; XX; Z
+Customer 20,Emeritus Permit,Annual,Emeritus,Faculty/Staff,07/28/2025,6:55 PM,A; AA; B; BB; C1; C2; CC; DD; E; F; FF; G; GG; GG2; HH; II; J; JJ1; JJ3; K; KK; L; LL; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2f; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 6; Lot 9b; R2; MM; N1/4/6/8/9; N3/7; N5; NN; O1/3; O5; P; PH1; Q; Q1; QQ; R; RR; S3/4; S7/8; S9; SA; SDG; SDStar; SS; Stadium Drive Garage; T; TT; TV; U1; U2; UU; V; VM; W; W2; X; XX; Y; YC; YY; Z; 
+Customer 21,Daily Permit,Daily,C,Faculty/Staff,12/18/2024,1:45 PM,C; K; P; U; V; X1; XX1; Z; Stadium Drive Garage; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2b; Lot 2f; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 4k; Lot 4m; Lot 4n; Lot 6; Lot 9b
+Customer 22,FS Bundle Pack (3 Day/Week) + ADA,Daily,Z,Faculty/Staff,04/11/2025,7:15 AM,K; P; U; V; X1; XX1; Z; Stadium Drive Garage; Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2b; Lot 2f; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 4k; Lot 4m; Lot 4n; Lot 6; Lot 9b
+Customer 23,Annual Commuter Permit,Annual,Lot 1,Faculty/Staff,07/03/2025,10:55 AM,Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f
+Customer 47,Micromobility Permit,Annual,MCR,Faculty/Staff,07/04/2024,11:45 PM,N/A
+Customer 24,Annual Resident Permit,Annual,Lot 2,Student,04/22/2025,4:30 AM,Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 3 (NEW); Lot 4a; Lot 4b; Lot 4h; Lot 4m; Lot 4n; Lot 6; Lot 9b; Lot 2a; Lot 2f
+Customer 25,Annual Overnight Storage Permit,Annual,Lot 19,Student,12/02/2024,4:30 AM,Lot 11b; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 3 (NEW); Lot 4b; Lot 6; Lot 9b
+Customer 26,No Permit,,,Student,07/23/2025,10:15 AM,ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 27,No Permit,,,Student,03/03/2024,6:45 PM,Lot 10a; Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 4a; Lot 4b; Lot 4h; Lot 4m; Lot 4n; Lot 6; Lot 9b; ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 28,ADA Permit Only,,,Student,09/20/2024,9:45 AM,ERC; Meter/Pay Station Area; Mowatt Lane Garage; Mowatt Visitor; Regents Drive Garage; Stadium Drive Garage; Union Lane Garage; Xfinity Visitor Lot
+Customer 29,Semester Commuter Permit + Medical Permit,Semester,Lot 3,Student,03/07/2025,7:15 AM,Lot 11b; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2f; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 6; Lot 9b; Stadium Drive Garage
+Customer 30,Annual Resident Permit + ADA ,Annual,Lot 16,Student,02/26/2024,6:15 AM,Lot 16a; Lot 16b; Lot 16f
+Customer 31,Semester Overnight Storage + ADA,Semester,Lot 17,Student,04/15/2024,12:00 AM,Lot 11b; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 3 (NEW); Lot 4b; Lot 6; Lot 9b; P2; NN; P1; RR2; XX1; K7; YY; DD; FF2; CC1; CC2; H; B; RR; Q; Q1; Z; JJ3; JJ2; O5; U2; C1; L; C2; S9; J1; N5; K5
+Customer 32,Annual Commuter Permit + Game Day Exception Permit,Annual,Lot 9,Student,11/19/2024,4:45 AM,Lot 4b
+Customer 33,Rainy Day Bike Permit,Daily,Lot 1,Student,10/29/2024,7:45 AM,Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f
+Customer 34,Breaksgiving Permit,Temporary,Lot 2,Student,12/5/2024,12:45 PM,Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2f; Lot 3 (NEW); Lot 4a; Lot 4b; Lot 4h; Lot 4m; Lot 4n; Lot 6; Lot 9b
+Customer 35,Semester Resident,Semester,Lot 3,Student,11/04/2024,8:00 PM,Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 3 (NEW); Lot 3 (OLD); Lot 4a; Lot 4b; Lot 4h; Lot 4m; Lot 4n; Lot 6; Lot 9b
+Customer 36,Semester Resident 6 + Basketball Permit,Semester,Lot 6,Student,02/28/2024,7:30 PM,Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 3 (NEW); Lot 4a; Lot 4b; Lot 4h; Lot 4m; Lot 4n; Lot 6; Lot 9b
+Customer 37,Bundle Pack,Daily,Lot 4/6,Student,08/12/2025,12:45 PM,Lot 4a; Lot 6
+Customer 38,1 Week Permit ,Temporary,Lot 2,Student,01/24/2024,9:00 AM,Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 2a; Lot 2f; Lot 3 (NEW); Lot 4a; Lot 4b; Lot 4h; Lot 4m; Lot 4n; Lot 6; Lot 9b
+Customer 39,Annual Overnight Storage Permit + ADA,Annual,Lot 11,Student,02/06/2024,3:45 AM,Lot 11b; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f; Lot 3 (NEW); Lot 4b; Lot 6; Lot 9b
+Customer 48,Motorcycle Permit,Annual,MC,Student,03/20/2024,10:30 AM,Motorcycle
+Customer 49,Courtyards Permit,Annual,Lot 8,Student,04/15/2025,3:00 AM,Lot 8
+Customer 50,Annual Commuter Permit + After Hours Permit,Annual,Lot 1 / DD,Student,03/13/2025,6:45 PM,HH; II; Lot 15; Lot 16a; Lot 16b; Lot 16f; Lot 17a; Lot 17b; Lot 17c; Lot 17d; Lot 19; Lot 2a; Lot 3 (NEW); Lot 3 (OLD); Q; Q1; Stadium Drive Garage; U1; U2; V; Y; Lot 1b; Lot 1c; Lot 1d; Lot 1e; Lot 1f
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,, 
