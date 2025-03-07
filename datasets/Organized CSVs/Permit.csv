@@ -1,0 +1,1088 @@
+﻿permit_id,permit_series,time,permit_full,prefix,permissions,active,physical,online,require_vehicle,temporary
+1,Administrative,Annual,Administrative,AP,All Campus,Yes,Yes,No,No,No
+2,All Campus,Annual,All Campus,AC,All Campus,Yes,No,No,Yes,No
+3,Alumni,Annual,Alumni,AN,Alumni,Yes,Yes,No,No,No
+4,Any Campus Meter,Daily,Any Campus Meter,ACM,Campus Meter,Yes,Yes,No,No,Yes
+5,Breaksgiving,Temporary,Breaksgiving,BG,Breaksgiving,Yes,No,No,Yes,No
+6,Bus Bundle Pack,Daily,Bus Bundle Pack,BBP,Bus Bundle Pack,Yes,Yes,No,No,No
+7,Campus Meter,Daily,Campus Meter,10ACM,Campus Meter,Yes,Yes,No,No,Yes
+8,Carpool Permits,Daily,Carpool Permits,CP,Carpool,Yes,No,No,Yes,No
+9,Construction,Daily,Construction,12CST,Paper Service,Yes,Yes,No,No,Yes
+10,Courier,Annual,Courier,CR,Courier,Yes,Yes,No,No,No
+11,EMBA,Annual,EMBA,EMBA,EMBA,Yes,No,No,No,No
+12,Emeritus,Annual,Emeritus,EMBA,Emeritus,Yes,Yes,No,No,No
+13,Emeritus (LPR),Annual,LPR Emeritus,VEM,Emeritus,Yes,No,No,Yes,No
+14,Employee Bundle Packs,Daily,FS Bundle Packs,FBP,Bundle Pack-FS,Yes,Yes,No,No,No
+15,Faculty/Staff,Annual,Faculty/Staff,FS,4H,Yes,No,No,Yes,No
+16,Faculty/Staff,Annual,Faculty/Staff,FS,A,Yes,No,No,Yes,No
+17,Faculty/Staff,Annual,Faculty/Staff,FS,AA,Yes,No,No,Yes,No
+18,Faculty/Staff,Annual,Faculty/Staff,FS,B,Yes,No,No,Yes,No
+19,Faculty/Staff,Annual,Faculty/Staff,FS,BB,Yes,No,No,Yes,No
+20,Faculty/Staff,Annual,Faculty/Staff,FS,C,Yes,No,No,Yes,No
+21,Faculty/Staff,Annual,Faculty/Staff,FS,CC,Yes,No,No,Yes,No
+22,Faculty/Staff,Annual,Faculty/Staff,FS,DD,Yes,No,No,Yes,No
+23,Faculty/Staff,Annual,Faculty/Staff,FS,E,Yes,No,No,Yes,No
+24,Faculty/Staff,Annual,Faculty/Staff,FS,EE,Yes,No,No,Yes,No
+25,Faculty/Staff,Annual,Faculty/Staff,FS,F,Yes,No,No,Yes,No
+26,Faculty/Staff,Annual,Faculty/Staff,FS,FF,Yes,No,No,Yes,No
+27,Faculty/Staff,Annual,Faculty/Staff,FS,G,Yes,No,No,Yes,No
+28,Faculty/Staff,Annual,Faculty/Staff,FS,GG,Yes,No,No,Yes,No
+29,Faculty/Staff,Annual,Faculty/Staff,FS,H,Yes,No,No,Yes,No
+30,Faculty/Staff,Annual,Faculty/Staff,FS,HC,Yes,No,No,Yes,No
+31,Faculty/Staff,Annual,Faculty/Staff,FS,HH,Yes,No,No,Yes,No
+32,Faculty/Staff,Annual,Faculty/Staff,FS,II,Yes,No,No,Yes,No
+33,Faculty/Staff,Annual,Faculty/Staff,FS,J,Yes,No,No,Yes,No
+34,Faculty/Staff,Annual,Faculty/Staff,FS,JJ,Yes,No,No,Yes,No
+35,Faculty/Staff,Annual,Faculty/Staff,FS,K,Yes,No,No,Yes,No
+36,Faculty/Staff,Annual,Faculty/Staff,FS,KK,Yes,No,No,Yes,No
+37,Faculty/Staff,Annual,Faculty/Staff,FS,L,Yes,No,No,Yes,No
+38,Faculty/Staff,Annual,Faculty/Staff,FS,LL,Yes,No,No,Yes,No
+39,Faculty/Staff,Annual,Faculty/Staff,FS,Lot V - Anacostia,Yes,No,No,Yes,No
+40,Faculty/Staff,Annual,Faculty/Staff,FS,Lot V - Artemesia/Cypress,Yes,No,No,Yes,No
+41,Faculty/Staff,Annual,Faculty/Staff,FS,M,Yes,No,No,Yes,No
+42,Faculty/Staff,Annual,Faculty/Staff,FS,Medical-FS,Yes,No,No,Yes,No
+43,Faculty/Staff,Annual,Faculty/Staff,FS,MM,Yes,No,No,Yes,No
+44,Faculty/Staff,Annual,Faculty/Staff,FS,N,Yes,No,No,Yes,No
+45,Faculty/Staff,Annual,Faculty/Staff,FS,NN,Yes,No,No,Yes,No
+46,Faculty/Staff,Annual,Faculty/Staff,FS,O,Yes,No,No,Yes,No
+47,Faculty/Staff,Annual,Faculty/Staff,FS,P,Yes,No,No,Yes,No
+48,Faculty/Staff,Annual,Faculty/Staff,FS,PH,Yes,No,No,Yes,No
+49,Faculty/Staff,Annual,Faculty/Staff,FS,Q,Yes,No,No,Yes,No
+50,Faculty/Staff,Annual,Faculty/Staff,FS,QQ,Yes,No,No,Yes,No
+51,Faculty/Staff,Annual,Faculty/Staff,FS,R,Yes,No,No,Yes,No
+52,Faculty/Staff,Annual,Faculty/Staff,FS,RR,Yes,No,No,Yes,No
+53,Faculty/Staff,Annual,Faculty/Staff,FS,S,Yes,No,No,Yes,No
+54,Faculty/Staff,Annual,Faculty/Staff,FS,SA,Yes,No,No,Yes,No
+55,Faculty/Staff,Annual,Faculty/Staff,FS,SDStar,Yes,No,No,Yes,No
+56,Faculty/Staff,Annual,Faculty/Staff,FS,SS,Yes,No,No,Yes,No
+57,Faculty/Staff,Annual,Faculty/Staff,FS,T,Yes,No,No,Yes,No
+58,Faculty/Staff,Annual,Faculty/Staff,FS,TT,Yes,No,No,Yes,No
+59,Faculty/Staff,Annual,Faculty/Staff,FS,TV,Yes,No,No,Yes,No
+60,Faculty/Staff,Annual,Faculty/Staff,FS,U,Yes,No,No,Yes,No
+61,Faculty/Staff,Annual,Faculty/Staff,FS,UU,Yes,No,No,Yes,No
+62,Faculty/Staff,Annual,Faculty/Staff,FS,V,Yes,No,No,Yes,No
+63,Faculty/Staff,Annual,Faculty/Staff,FS,VM,Yes,No,No,Yes,No
+64,Faculty/Staff,Annual,Faculty/Staff,FS,W,Yes,No,No,Yes,No
+65,Faculty/Staff,Annual,Faculty/Staff,FS,WW,Yes,No,No,Yes,No
+66,Faculty/Staff,Annual,Faculty/Staff,FS,X,Yes,No,No,Yes,No
+67,Faculty/Staff,Annual,Faculty/Staff,FS,XX,Yes,No,No,Yes,No
+68,Faculty/Staff,Annual,Faculty/Staff,FS,Y,Yes,No,No,Yes,No
+69,Faculty/Staff,Annual,Faculty/Staff,FS,YC,Yes,No,No,Yes,No
+70,Faculty/Staff,Annual,Faculty/Staff,FS,YY,Yes,No,No,Yes,No
+71,Faculty/Staff,Annual,Faculty/Staff,FS,Z,Yes,No,No,Yes,No
+72,FAE,Annual,FAE (UMUC),17FAE,17FAE,Yes,No,No,Yes,No
+73,FAE,Summer,FAE (UMUC),17FAE,FS Summer,Yes,No,No,Yes,No
+74,FAE,Annual,FAE (UMUC),17FAE,18-19FAE,Yes,No,No,Yes,No
+75,FAE,Annual,FAE (UMUC),17FAE,19-20FAE,Yes,No,No,Yes,No
+76,FAE (2022-2023),Annual,(2022-2023) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+77,FAE (2023-2024),Annual,(2023-2024) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+78,FAE (2024-2025),Annual,(2024-2025) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+79,Faculty/Staff,Semester,Faculty/Staff,FS,4H,Yes,No,No,Yes,No
+80,Faculty/Staff,Semester,Faculty/Staff,FS,A,Yes,No,No,Yes,No
+81,Faculty/Staff,Semester,Faculty/Staff,FS,AA,Yes,No,No,Yes,No
+82,Faculty/Staff,Semester,Faculty/Staff,FS,B,Yes,No,No,Yes,No
+83,Faculty/Staff,Semester,Faculty/Staff,FS,BB,Yes,No,No,Yes,No
+84,Faculty/Staff,Semester,Faculty/Staff,FS,C,Yes,No,No,Yes,No
+85,Faculty/Staff,Semester,Faculty/Staff,FS,CC,Yes,No,No,Yes,No
+86,Faculty/Staff,Semester,Faculty/Staff,FS,DD,Yes,No,No,Yes,No
+87,Faculty/Staff,Semester,Faculty/Staff,FS,E,Yes,No,No,Yes,No
+88,Faculty/Staff,Semester,Faculty/Staff,FS,EE,Yes,No,No,Yes,No
+89,Faculty/Staff,Semester,Faculty/Staff,FS,F,Yes,No,No,Yes,No
+90,Faculty/Staff,Semester,Faculty/Staff,FS,FF,Yes,No,No,Yes,No
+91,Faculty/Staff,Semester,Faculty/Staff,FS,G,Yes,No,No,Yes,No
+92,Faculty/Staff,Semester,Faculty/Staff,FS,GG,Yes,No,No,Yes,No
+93,Faculty/Staff,Semester,Faculty/Staff,FS,H,Yes,No,No,Yes,No
+94,Faculty/Staff,Semester,Faculty/Staff,FS,HC,Yes,No,No,Yes,No
+95,Faculty/Staff,Semester,Faculty/Staff,FS,HH,Yes,No,No,Yes,No
+96,Faculty/Staff,Semester,Faculty/Staff,FS,II,Yes,No,No,Yes,No
+97,Faculty/Staff,Semester,Faculty/Staff,FS,J,Yes,No,No,Yes,No
+98,Faculty/Staff,Semester,Faculty/Staff,FS,JJ,Yes,No,No,Yes,No
+99,Faculty/Staff,Semester,Faculty/Staff,FS,K,Yes,No,No,Yes,No
+100,Faculty/Staff,Semester,Faculty/Staff,FS,KK,Yes,No,No,Yes,No
+101,Faculty/Staff,Semester,Faculty/Staff,FS,L,Yes,No,No,Yes,No
+102,Faculty/Staff,Semester,Faculty/Staff,FS,LL,Yes,No,No,Yes,No
+103,Faculty/Staff,Semester,Faculty/Staff,FS,Lot V - Anacostia,Yes,No,No,Yes,No
+104,Faculty/Staff,Semester,Faculty/Staff,FS,Lot V - Artemesia/Cypress,Yes,No,No,Yes,No
+105,Faculty/Staff,Semester,Faculty/Staff,FS,M,Yes,No,No,Yes,No
+106,Faculty/Staff,Semester,Faculty/Staff,FS,Medical-FS,Yes,No,No,Yes,No
+107,Faculty/Staff,Semester,Faculty/Staff,FS,MM,Yes,No,No,Yes,No
+108,Faculty/Staff,Semester,Faculty/Staff,FS,N,Yes,No,No,Yes,No
+109,Faculty/Staff,Semester,Faculty/Staff,FS,NN,Yes,No,No,Yes,No
+110,Faculty/Staff,Semester,Faculty/Staff,FS,O,Yes,No,No,Yes,No
+111,Faculty/Staff,Semester,Faculty/Staff,FS,P,Yes,No,No,Yes,No
+112,Faculty/Staff,Semester,Faculty/Staff,FS,PH,Yes,No,No,Yes,No
+113,Faculty/Staff,Semester,Faculty/Staff,FS,Q,Yes,No,No,Yes,No
+114,Faculty/Staff,Semester,Faculty/Staff,FS,QQ,Yes,No,No,Yes,No
+115,Faculty/Staff,Semester,Faculty/Staff,FS,R,Yes,No,No,Yes,No
+116,Faculty/Staff,Semester,Faculty/Staff,FS,RR,Yes,No,No,Yes,No
+117,Faculty/Staff,Semester,Faculty/Staff,FS,S,Yes,No,No,Yes,No
+118,Faculty/Staff,Semester,Faculty/Staff,FS,SA,Yes,No,No,Yes,No
+119,Faculty/Staff,Semester,Faculty/Staff,FS,SDStar,Yes,No,No,Yes,No
+120,Faculty/Staff,Semester,Faculty/Staff,FS,SS,Yes,No,No,Yes,No
+121,Faculty/Staff,Semester,Faculty/Staff,FS,T,Yes,No,No,Yes,No
+122,Faculty/Staff,Semester,Faculty/Staff,FS,TT,Yes,No,No,Yes,No
+123,Faculty/Staff,Semester,Faculty/Staff,FS,TV,Yes,No,No,Yes,No
+124,Faculty/Staff,Semester,Faculty/Staff,FS,U,Yes,No,No,Yes,No
+125,Faculty/Staff,Semester,Faculty/Staff,FS,UU,Yes,No,No,Yes,No
+126,Faculty/Staff,Semester,Faculty/Staff,FS,V,Yes,No,No,Yes,No
+127,Faculty/Staff,Semester,Faculty/Staff,FS,VM,Yes,No,No,Yes,No
+128,Faculty/Staff,Semester,Faculty/Staff,FS,W,Yes,No,No,Yes,No
+129,Faculty/Staff,Semester,Faculty/Staff,FS,WW,Yes,No,No,Yes,No
+130,Faculty/Staff,Semester,Faculty/Staff,FS,X,Yes,No,No,Yes,No
+131,Faculty/Staff,Semester,Faculty/Staff,FS,XX,Yes,No,No,Yes,No
+132,Faculty/Staff,Semester,Faculty/Staff,FS,Y,Yes,No,No,Yes,No
+133,Faculty/Staff,Semester,Faculty/Staff,FS,YC,Yes,No,No,Yes,No
+134,Faculty/Staff,Semester,Faculty/Staff,FS,YY,Yes,No,No,Yes,No
+135,Faculty/Staff,Semester,Faculty/Staff,FS,Z,Yes,No,No,Yes,No
+136,FAE,Semester,FAE (UMUC),17FAE,17FAE,Yes,No,No,Yes,No
+137,FAE,Semester,FAE (UMUC),17FAE,18-19FAE,Yes,No,No,Yes,No
+138,FAE,Semester,FAE (UMUC),17FAE,19-20FAE,Yes,No,No,Yes,No
+139,FAE (2022-2023),Semester,(2022-2023) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+140,FAE (2023-2024),Semester,(2023-2024) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+141,FAE (2024-2025),Semester,(2024-2025) UMGC Permits,FAE,18-19FAE,Yes,No,No,No,No
+142,FS Green Permits,Annual,(2024-2025) FS Green Permits,FSG,Faculty Staff Green Permit,Yes,No,No,No,No
+143,FS Green Permits,Semester,(2024-2025) FS Green Permits,FSG,Faculty Staff Green Permit,Yes,No,No,No,No
+144,Gate Cards,Annual,Gate Cards,0,Gate Card,Yes,Yes,No,No,No
+145,"Golden ID (Lot 1, 4, 6, 9, and 11)",Annual,Golden ID Commuter,STGIC,Golden ID,Yes,No,Yes,Yes,No
+146,Lot 1 Commuter,Annual,Lot 1 Commuter,ST1C,Lot 1,Yes,No,No,Yes,No
+147,Lot 10 Courtyards,Annual,Lot 10 Courtyards,010,Lot 10,Yes,No,No,Yes,No
+148,Lot 8 Courtyards,Annual,Lot 8 Courtyards,080,Lot 8,Yes,No,No,Yes,No
+149,Lot 11 Commuter,Annual,Lot 11 Commuter,ST11C,Lot 11 Commuter,Yes,No,No,Yes,No
+150,Lot 15,Annual,Lot 15 Resident,ST15R,Lot 15,Yes,No,No,Yes,No
+151,Lot 16,Annual,Lot 16 Resident,ST16R,Lot 16,Yes,No,Yes,Yes,No
+152,Lot 19,Annual,Lot 19 Resident,ST19R,Lot 19,Yes,No,No,Yes,No
+153,Lot 2,Annual,Lot 2 Resident,ST2R,Lot 2,Yes,No,No,Yes,No
+154,Lot 3C,Annual,Lot 3 Commuter,ST3C,Lot 3 Commuter,Yes,No,No,Yes,No
+155,Lot 3R,Annual,Lot 3 Resident,ST3R,Lot 3,Yes,No,No,Yes,No
+156,Lot 4 Commuter,Annual,Lot 4 Commuter,ST4C,Lot 4,Yes,No,No,Yes,No
+157,Lot 6 Commuter,Annual,Lot 6 Commuter,ST6C,Lot 6 Commuter,Yes,No,No,Yes,No
+158,Lot 6R,Annual,Lot 6 Resident,ST6R,Lot 6 Resident,Yes,No,No,Yes,No
+159,Lot 9 Commuter,Annual,Lot 9 Commuter,ST9C,Lot 9,Yes,No,No,Yes,No
+160,Medical Permit,Annual,Medical Permit,MP,Medical-FS,Yes,No,No,No,No
+161,Medical Permit,Annual,Medical Permit,MP,Medical-Student,Yes,No,No,No,No
+162,Lot 1 Commuter,Semester,Lot 1 Commuter,ST1C,Lot 1,Yes,No,No,Yes,No
+163,Lot 10 Courtyards,Semester,Lot 10 Courtyards,010,Lot 10,Yes,No,No,Yes,No
+164,Lot 8 Courtyards,Semester,Lot 8 Courtyards,080,Lot 8,Yes,No,No,Yes,No
+165,Lot 11 Commuter,Semester,Lot 11 Commuter,ST11C,Lot 11 Commuter,Yes,No,No,Yes,No
+166,Lot 15,Semester,Lot 15 Resident,ST15R,Lot 15,Yes,No,No,Yes,No
+167,Lot 16,Semester,Lot 16 Resident,ST16R,Lot 16,Yes,No,Yes,Yes,No
+168,Lot 19,Semester,Lot 19 Resident,ST19R,Lot 19,Yes,No,No,Yes,No
+169,Lot 2,Semester,Lot 2 Resident,ST2R,Lot 2,Yes,No,No,Yes,No
+170,Lot 3C,Semester,Lot 3 Commuter,ST3C,Lot 3 Commuter,Yes,No,No,Yes,No
+171,Lot 3R,Semester,Lot 3 Resident,ST3R,Lot 3,Yes,No,No,Yes,No
+172,Lot 4 Commuter,Semester,Lot 4 Commuter,ST4C,Lot 4,Yes,No,No,Yes,No
+173,Lot 6 Commuter,Semester,Lot 6 Commuter,ST6C,Lot 6 Commuter,Yes,No,No,Yes,No
+174,Lot 6R,Semester,Lot 6 Resident,ST6R,Lot 6 Resident,Yes,No,No,Yes,No
+175,Lot 9 Commuter,Semester,Lot 9 Commuter,ST9C,Lot 9,Yes,No,No,Yes,No
+176,Medical Permit,Semester,Medical Permit,MP,Medical-FS,Yes,No,No,No,No
+177,Medical Permit,Semester,Medical Permit,MP,Medical-Student,Yes,No,No,No,No
+178,Micromobility,Annual,"(23-24, 23-25, 24-26) Micromobility",MCR,Micromobility,Yes,Yes,No,No,No
+179,Motorcycle Only,Annual,Motorcycle (No Permit),MC,Scooter/MC,Yes,No,No,Yes,No
+180,Overnight Storage-Lot 11,Annual,Lot 11 Overnight Storage,ST11O,Overnight Storage-Lot 11,Yes,No,No,Yes,No
+181,Overnight Storage-Lot 16,Annual,Lot 16 Overnight Storage,ST16O,Overnight Storage-Lot 16,Yes,No,No,No,No
+182,Overnight Storage-Lot 17,Annual,Lot 17 Overnight Storage,ST17O,Overnight Storage-Lot 17,Yes,No,No,Yes,No
+183,Overnight Storage-Lot 19,Annual,Lot 19 Overnight Storage,ST19O,Overnight Storage-Lot 19,Yes,No,No,Yes,No
+184,Prepaid Meter - 1 day (10/31/16),Daily,,,Campus Meter,,,,,
+185,PUNCH OUT - ONE HOUR,Hourly,PUNCH OUT- ONE HOUR,YC,YC,Yes,Yes,No,No,No
+186,Quarantine/Isolation,Temporary,Quarantine/Isolation,QI,Quarantine,Yes,No,No,Yes,No
+187,Scooter,Annual,24-25 Scooter,SCR,Scooter/MC,Yes,Yes,No,No,No
+188,Motorcycle Only,Semester,Motorcycle (No Permit),MC,Scooter/MC,Yes,No,No,Yes,No
+189,Overnight Storage-Lot 11,Semester,Lot 11 Overnight Storage,ST11O,Overnight Storage-Lot 11,Yes,No,No,Yes,No
+190,Overnight Storage-Lot 16,Semester,Lot 16 Overnight Storage,ST16O,Overnight Storage-Lot 16,Yes,No,No,No,No
+191,Overnight Storage-Lot 17,Semester,Lot 17 Overnight Storage,ST17O,Overnight Storage-Lot 17,Yes,No,No,Yes,No
+192,Overnight Storage-Lot 19,Semester,Lot 19 Overnight Storage,ST19O,Overnight Storage-Lot 19,Yes,No,No,Yes,No
+193,Scooter,Semester,24-25 Scooter,SCR,Scooter/MC,Yes,Yes,No,No,No
+194,Service Permit (Paper),Daily,Service Permit (Paper),12SRV,Daily Service Permit (Paper),Yes,Yes,No,No,Yes
+195,Service-Annual,Annual,Service,SP,Service Permit,Yes,Yes,No,No,No
+196,Short Term Parking,Daily,Short Term Parking,STP,Short Term Parking,Yes,Yes,No,No,Yes
+197,Stadium Drive Garage Commuter,Annual,Lot SDG Commuter,STSDGC,Stadium Drive Garage,Yes,No,No,Yes,No
+198,Student Bundle Pack,Daily,Student Bundle Pack,14SBP,Bundle Pack-Student,Yes,Yes,No,No,No
+199,Student Daily Permits,Daily,Student Daily Permits,SDP,Bundle Pack-Student,Yes,No,No,Yes,No
+200,Student Lot B,Annual,Student Lot B,STBC,Student Lot B,Yes,No,Yes,Yes,No
+201,Student Lot U2,Annual,Student Lot U2,STUC,Student Lot U,Yes,No,No,Yes,No
+202,Student Lot UU,Annual,Student Lot UU,STUUC,Student Lot UU,Yes,No,Yes,Yes,No
+203,Student Lot XX,Annual,Student Lot XX,STXC,Student Lot XX,Yes,No,Yes,Yes,No
+204,Student Lot B,Semester,Student Lot B,STBC,Student Lot B,Yes,No,Yes,Yes,No
+205,Student Lot U2,Semester,Student Lot U2,STUC,Student Lot U,Yes,No,No,Yes,No
+206,Student Lot UU,Semester,Student Lot UU,STUUC,Student Lot UU,Yes,No,Yes,Yes,No
+207,Student Lot XX,Semester,Student Lot XX,STXC,Student Lot XX,Yes,No,Yes,Yes,No
+208,Summer Commuter,Summer,Summer Commuter,SSC,Summer Commuter,Yes,No,No,Yes,No
+209,Summer Resident,Summer,Summer Resident,SSR,Summer Resident,Yes,No,No,Yes,No
+210,Surface Lot,Daily,Surface Lot,12TMP,4H,Yes,Yes,No,No,Yes
+211,Surface Lot,Daily,Surface Lot,12TMP,A,Yes,Yes,No,No,Yes
+212,Surface Lot,Daily,Surface Lot,12TMP,AA,Yes,Yes,No,No,Yes
+213,Surface Lot,Daily,Surface Lot,12TMP,All Campus,Yes,Yes,No,No,Yes
+214,Surface Lot,Daily,Surface Lot,12TMP,B,Yes,Yes,No,No,Yes
+215,Surface Lot,Daily,Surface Lot,12TMP,BB,Yes,Yes,No,No,Yes
+216,Surface Lot,Daily,Surface Lot,12TMP,C,Yes,Yes,No,No,Yes
+217,Surface Lot,Daily,Surface Lot,12TMP,CC,Yes,Yes,No,No,Yes
+218,Surface Lot,Daily,Surface Lot,12TMP,DD,Yes,Yes,No,No,Yes
+219,Surface Lot,Daily,Surface Lot,12TMP,E,Yes,Yes,No,No,Yes
+220,Surface Lot,Daily,Surface Lot,12TMP,EE,Yes,Yes,No,No,Yes
+221,Surface Lot,Daily,Surface Lot,12TMP,ER,Yes,Yes,No,No,Yes
+222,Surface Lot,Daily,Surface Lot,12TMP,F,Yes,Yes,No,No,Yes
+223,Surface Lot,Daily,Surface Lot,12TMP,FF,Yes,Yes,No,No,Yes
+224,Surface Lot,Daily,Surface Lot,12TMP,G,Yes,Yes,No,No,Yes
+225,Surface Lot,Daily,Surface Lot,12TMP,GG,Yes,Yes,No,No,Yes
+226,Surface Lot,Daily,Surface Lot,12TMP,H,Yes,Yes,No,No,Yes
+227,Surface Lot,Daily,Surface Lot,12TMP,HH,Yes,Yes,No,No,Yes
+228,Surface Lot,Daily,Surface Lot,12TMP,II,Yes,Yes,No,No,Yes
+229,Surface Lot,Daily,Surface Lot,12TMP,J,Yes,Yes,No,No,Yes
+230,Surface Lot,Daily,Surface Lot,12TMP,JJ,Yes,Yes,No,No,Yes
+231,Surface Lot,Daily,Surface Lot,12TMP,K,Yes,Yes,No,No,Yes
+232,Surface Lot,Daily,Surface Lot,12TMP,KK,Yes,Yes,No,No,Yes
+233,Surface Lot,Daily,Surface Lot,12TMP,L,Yes,Yes,No,No,Yes
+234,Surface Lot,Daily,Surface Lot,12TMP,LL,Yes,Yes,No,No,Yes
+235,Surface Lot,Daily,Surface Lot,12TMP,M,Yes,Yes,No,No,Yes
+236,Surface Lot,Daily,Surface Lot,12TMP,MM,Yes,Yes,No,No,Yes
+237,Surface Lot,Daily,Surface Lot,12TMP,N,Yes,Yes,No,No,Yes
+238,Surface Lot,Daily,Surface Lot,12TMP,NN,Yes,Yes,No,No,Yes
+239,Surface Lot,Daily,Surface Lot,12TMP,O,Yes,Yes,No,No,Yes
+240,Surface Lot,Daily,Surface Lot,12TMP,OO,Yes,Yes,No,No,Yes
+241,Surface Lot,Daily,Surface Lot,12TMP,P,Yes,Yes,No,No,Yes
+242,Surface Lot,Daily,Surface Lot,12TMP,PH,Yes,Yes,No,No,Yes
+243,Surface Lot,Daily,Surface Lot,12TMP,PP,Yes,Yes,No,No,Yes
+244,Surface Lot,Daily,Surface Lot,12TMP,Q,Yes,Yes,No,No,Yes
+245,Surface Lot,Daily,Surface Lot,12TMP,QQ,Yes,Yes,No,No,Yes
+246,Surface Lot,Daily,Surface Lot,12TMP,R,Yes,Yes,No,No,Yes
+247,Surface Lot,Daily,Surface Lot,12TMP,RR,Yes,Yes,No,No,Yes
+248,Surface Lot,Daily,Surface Lot,12TMP,S,Yes,Yes,No,No,Yes
+249,Surface Lot,Daily,Surface Lot,12TMP,SA,Yes,Yes,No,No,Yes
+250,Surface Lot,Daily,Surface Lot,12TMP,SDStar,Yes,Yes,No,No,Yes
+251,Surface Lot,Daily,Surface Lot,12TMP,SS,Yes,Yes,No,No,Yes
+252,Surface Lot,Daily,Surface Lot,12TMP,Stadium Drive Garage,Yes,Yes,No,No,Yes
+253,Surface Lot,Daily,Surface Lot,12TMP,T,Yes,Yes,No,No,Yes
+254,Surface Lot,Daily,Surface Lot,12TMP,TT,Yes,Yes,No,No,Yes
+255,Surface Lot,Daily,Surface Lot,12TMP,TV,Yes,Yes,No,No,Yes
+256,Surface Lot,Daily,Surface Lot,12TMP,U,Yes,Yes,No,No,Yes
+257,Surface Lot,Daily,Surface Lot,12TMP,UU,Yes,Yes,No,No,Yes
+258,Surface Lot,Daily,Surface Lot,12TMP,V,Yes,Yes,No,No,Yes
+259,Surface Lot,Daily,Surface Lot,12TMP,VM,Yes,Yes,No,No,Yes
+260,Surface Lot,Daily,Surface Lot,12TMP,W,Yes,Yes,No,No,Yes
+261,Surface Lot,Daily,Surface Lot,12TMP,WW,Yes,Yes,No,No,Yes
+262,Surface Lot,Daily,Surface Lot,12TMP,X,Yes,Yes,No,No,Yes
+263,Surface Lot,Daily,Surface Lot,12TMP,XX,Yes,Yes,No,No,Yes
+264,Surface Lot,Daily,Surface Lot,12TMP,Y,Yes,Yes,No,No,Yes
+265,Surface Lot,Daily,Surface Lot,12TMP,YC,Yes,Yes,No,No,Yes
+266,Surface Lot,Daily,Surface Lot,12TMP,YY,Yes,Yes,No,No,Yes
+267,Surface Lot,Daily,Surface Lot,12TMP,Z,Yes,Yes,No,No,Yes
+268,Temporary FS,Temporary,Temporary Faculty/Staff,TFS,FS Summer,Yes,No,No,Yes,No
+269,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,A,Yes,No,No,No,No
+270,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,AA,Yes,No,No,No,No
+271,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,B,Yes,No,No,No,No
+272,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,BB,Yes,No,No,No,No
+273,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,C,Yes,No,No,No,No
+274,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,CC,Yes,No,No,No,No
+275,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,DD,Yes,No,No,No,No
+276,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,E,Yes,No,No,No,No
+277,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,EE,Yes,No,No,No,No
+278,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,F,Yes,No,No,No,No
+279,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,FF,Yes,No,No,No,No
+280,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,G,Yes,No,No,No,No
+281,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,GG,Yes,No,No,No,No
+282,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,H,Yes,No,No,No,No
+283,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,HH,Yes,No,No,No,No
+284,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,II,Yes,No,No,No,No
+285,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,J,Yes,No,No,No,No
+286,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,JJ,Yes,No,No,No,No
+287,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,K,Yes,No,No,No,No
+288,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,KK,Yes,No,No,No,No
+289,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,L,Yes,No,No,No,No
+290,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,LL,Yes,No,No,No,No
+291,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,M,Yes,No,No,No,No
+292,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,MM,Yes,No,No,No,No
+293,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,N,Yes,No,No,No,No
+294,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,NN,Yes,No,No,No,No
+295,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,O,Yes,No,No,No,No
+296,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,P,Yes,No,No,No,No
+297,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,PH,Yes,No,No,No,No
+298,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Q,Yes,No,No,No,No
+299,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,QQ,Yes,No,No,No,No
+300,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,R,Yes,No,No,No,No
+301,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,RR,Yes,No,No,No,No
+302,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,S,Yes,No,No,No,No
+303,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,SDStar,Yes,No,No,No,No
+304,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,SS,Yes,No,No,No,No
+305,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Student Lot B,Yes,No,No,No,No
+306,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Student Lot UU,Yes,No,No,No,No
+307,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Student Lot XX,Yes,No,No,No,No
+308,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,T,Yes,No,No,No,No
+309,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,TT,Yes,No,No,No,No
+310,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,TV,Yes,No,No,No,No
+311,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,U,Yes,No,No,No,No
+312,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,UU,Yes,No,No,No,No
+313,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,V,Yes,No,No,No,No
+314,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,W,Yes,No,No,No,No
+315,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,WW,Yes,No,No,No,No
+316,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,X,Yes,No,No,No,No
+317,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,XX,Yes,No,No,No,No
+318,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Y,Yes,No,No,No,No
+319,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,YC,Yes,No,No,No,No
+320,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,YY,Yes,No,No,No,No
+321,Temporary Lot Assignment,Temporary,Temporary Lot Assignment,TLA,Z,Yes,No,No,No,No
+322,Time and Materials,Temporary,Time and Materials,TM,Time and Materials,Yes,Yes,No,No,No
+323,TMP,Temporary,Temporary Permit,TMP,TMP,Yes,Yes,No,No,Yes
+324,Visitor After Hours,Annual,Visitor After Hours,VS,Visitor After Hours,Yes,Yes,No,No,No
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

@@ -1,0 +1,1027 @@
+﻿event_id,affected_lot,start_date,end_date,days_impacted,closure_type
+1,W,1/3/2023,2/22/2023,51,Construction
+2,UU,1/8/2024,6/1/2025,511,Construction
+3,Y,1/11/2024,1/12/2024,2,Special Event
+4,SS,1/12/2024,1/15/2024,4,Construction
+5,J,1/20/2024,1/20/2024,1,Construction
+6,Lot 11b,1/23/2024,5/15/2024,114,Construction
+7,Z,1/26/2024,5/15/2024,111,Construction
+8,SDG,1/31/2024,1/31/2024,1,Special Event
+9,Union Lane Garage,1/31/2024,1/31/2024,1,Special Event
+10,Lot 1c,1/31/2024,1/31/2024,1,Special Event
+11,Union Lane Garage,2/2/2024,2/2/2024,1,Special Event
+12,Lot 11b,2/3/2024,2/3/2024,1,Special Event
+13,SDG,2/7/2024,2/7/2024,1,Special Event
+14,K,2/12/2024,4/30/2024,79,Operations
+15,Union Lane Garage,2/12/2024,2/12/2024,1,Special Event
+16,GG,2/13/2024,2/14/2024,2,Construction
+17,Union Lane Garage,2/14/2024,2/14/2024,1,Special Event
+18,R,2/14/2024,2/14/2024,1,Special Event
+19,Stadium Drive Garage,2/15/2024,2/16/2024,2,Special Event
+20,Lot 1c,2/16/2024,2/16/2024,1,Special Event
+21,X,2/17/2024,2/17/2024,1,Construction
+22,Union Lane Garage,2/19/2024,2/19/2024,1,Special Event
+23,PH2,2/19/2024,2/21/2024,3,Construction
+24,Union Lane Garage,2/21/2024,2/23/2024,3,Special Event
+25,Union Lane Garage,2/26/2024,2/26/2024,1,Special Event
+26,Union Lane Garage,2/28/2024,2/28/2024,1,Special Event
+27,Union Lane Garage,2/28/2024,2/28/2024,1,Special Event
+28,Union Lane Garage,3/1/2024,3/1/2024,1,Special Event
+29,Union Lane Garage,3/4/2024,3/4/2024,1,Special Event
+30,Union Lane Garage,3/6/2024,3/6/2024,1,Special Event
+31,L,3/6/2024,3/8/2024,3,Construction
+32,BB,3/8/2024,3/8/2024,1,Construction
+33,QQ,3/9/2024,3/9/2024,1,Special Event
+34,Union Lane Garage,3/11/2024,3/11/2024,1,Special Event
+35,Lot 4b,3/11/2024,3/15/2024,5,Construction
+36,SS,3/12/2024,3/23/2024,12,Construction
+37,A,3/16/2024,3/23/2024,8,Construction
+38,Lot 9b,3/18/2024,3/22/2024,5,Construction
+39,Regents Drive Garage,3/18/2024,3/18/2024,1,Operations
+40,Mowatt Lane,3/18/2024,3/24/2024,7,Construction
+41,Mowatt Lane Garage,3/29/2024,3/29/2024,1,Special Event
+42,Union Lane Garage,4/1/2024,4/1/2024,1,Special Event
+43,Lot 1f,4/1/2024,4/1/2024,1,Construction
+44,GG,4/5/2024,4/5/2024,1,Special Event
+45,Lot 15,4/5/2024,4/5/2024,1,Operations
+46,QQ,4/5/2024,4/8/2024,4,Construction
+47,JJ1,4/10/2024,4/10/2024,1,Operations
+48,Symons Hall,4/10/2024,6/10/2024,62,Construction
+49,GG,4/11/2024,4/11/2024,1,Special Event
+50,Regents Drive Garage,4/11/2024,4/11/2024,1,Special Event
+51,Lot 6,4/11/2024,4/11/2024,1,Construction
+52,SS,4/11/2024,4/19/2024,9,Construction
+53,Lot 15,4/15/2024,4/15/2024,1,Operations
+54,C1,4/15/2024,4/15/2024,1,Construction
+55,L,4/16/2024,4/16/2024,1,Special Event
+56,Regents Drive Garage,4/18/2024,4/19/2024,2,Special Event
+57,Benjamin Bldg,4/18/2024,4/24/2024,7,Construction
+58,QQ,4/19/2024,4/21/2024,3,Special Event
+59,C1,4/19/2024,4/19/2024,1,Construction
+60,GG,4/24/2024,4/24/2024,1,Special Event
+61,Lot 16a,4/25/2024,4/25/2024,1,Construction
+62,GG,4/26/2024,4/27/2024,2,Special Event
+63,T,4/26/2024,4/27/2024,2,Special Event
+64,Lot 11b,4/26/2024,4/27/2024,2,Special Event
+65,CC,4/27/2024,4/27/2024,1,Special Event
+66,FF,4/27/2024,4/27/2024,1,Special Event
+67,Lot 6,4/29/2024,3/6/2025,312,Construction
+68,Z,5/1/2024,5/3/2024,3,Space Adjustment
+69,TT,5/1/2024,5/7/2024,7,Construction
+70,SDG,5/2/2024,5/2/2024,1,Special Event
+71,KK,5/8/2024,5/10/2024,3,Construction
+72,Regents Drive Garage,5/8/2024,5/8/2024,1,Construction
+73,TV,5/8/2024,5/8/2024,1,Special Event
+74,SDG,5/9/2024,5/9/2024,1,Construction
+75,SDG,5/9/2024,5/9/2024,1,Construction
+76,Union Lane Garage,5/10/2024,5/10/2024,1,Construction
+77,HH,5/10/2024,5/10/2024,1,Construction
+78,Union Lane Garage,5/10/2024,5/10/2024,1,Operations
+79,Terrrapin Trail Garage,5/11/2024,5/11/2024,1,Construction
+80,Mowatt Lane Garage,5/17/2024,5/17/2024,1,Special Event
+81,Lot 9b,5/17/2024,5/17/2024,1,Construction
+82,Lot 16b,5/21/2024,8/15/2024,87,Construction
+83,J,5/23/2024,9/1/2024,102,Construction
+84,R,5/23/2024,9/1/2024,102,Construction
+85,W,5/24/2024,7/24/2024,62,Construction
+86,Z,5/27/2024,8/16/2024,82,Construction
+87,A,5/28/2024,6/30/2024,34,Construction
+88,E,5/28/2024,8/21/2024,86,Space Adjustment
+89,Xfinity Visitor Lot,5/28/2024,5/31/2024,4,Special Event
+90,U1,5/28/2024,6/1/2024,5,Special Event
+91,KK,5/28/2024,7/15/2024,49,Special Event
+92,J,5/28/2024,5/31/2024,4,Special Event
+93,SS,5/30/2024,6/1/2024,3,Special Event
+94,FF,6/3/2024,8/16/2024,75,Construction
+95,L,6/3/2024,6/3/2024,1,Special Event
+96,Geology Bldg,6/3/2024,9/3/2024,93,Construction
+97,Regents Drive Garage,6/4/2024,6/7/2024,4,Construction
+98,K,6/5/2024,6/7/2024,3,Construction
+99,S3/4,6/6/2024,6/12/2024,7,Construction
+100,Biology Psychology Bldg,6/8/2024,6/8/2024,1,Operations
+101,Stadium Drive Garage,6/10/2024,6/12/2024,3,Special Event
+102,Lot 1c,6/10/2024,6/12/2024,3,Special Event
+103,Xfinity Visitor Lot,6/13/2024,6/13/2024,1,Special Event
+104,Xfinity Visitor Lot,6/13/2024,6/13/2024,1,Special Event
+105,Xfinity Visitor Lot,6/13/2024,6/13/2024,1,Special Event
+106,GG,6/26/2024,6/26/2024,1,Construction
+107,Regents Drive Garage,6/26/2024,7/8/2024,13,Special Event
+108,S3/4,7/1/2024,7/1/2024,1,Construction
+109,Lot 9b,7/1/2024,7/6/2024,6,Construction
+110,Lot 1b,7/3/2024,7/15/2024,13,Construction
+111,SS,7/8/2024,8/2/2024,26,Construction
+112,L,7/8/2024,8/16/2024,40,Construction
+113,Lot 2a,7/8/2024,7/9/2024,2,Operations
+114,Z,7/8/2024,7/11/2024,4,Construction
+115,Terrrapin Trail Garage,7/11/2024,7/11/2024,1,Operations
+116,Mowatt Lane Garage,7/12/2024,7/12/2024,1,Operations
+117,Symons Hall,7/15/2024,7/29/2024,15,Construction
+118,Symons Hall,7/15/2024,7/29/2024,15,Construction
+119,Mowatt Lane Garage,7/16/2024,7/16/2024,1,Construction
+120,XX,7/17/2024,7/22/2024,6,Construction
+121,SS,7/18/2024,7/19/2024,2,Construction
+122,L,7/19/2024,7/24/2024,6,Operations
+123,Mowatt Lane Garage,7/19/2024,7/19/2024,1,Operations
+124,Regents Drive Garage,7/22/2024,7/22/2024,1,Operations
+125,Clarice Smith Center,7/23/2024,7/24/2024,2,Construction
+126,DD,7/23/2024,7/25/2024,3,Construction
+127,Lot 1b,7/24/2024,7/26/2024,3,Construction
+128,SCUB 2,7/25/2024,7/25/2024,1,Construction
+129,LL,7/26/2024,7/26/2024,1,Operations
+130,L,7/30/2024,7/31/2024,2,Operations
+131,DD,7/31/2024,8/5/2024,6,Construction
+132,L,8/1/2024,8/1/2024,1,Special Event
+133,C1,8/4/2024,8/7/2024,4,Construction
+134,L,8/5/2024,8/6/2024,2,Operations
+135,R,8/12/2024,8/16/2024,5,Construction
+136,Benjamin Bldg,8/12/2024,8/16/2024,5,Construction
+137,Benjamin Bldg,8/12/2024,8/16/2024,5,Construction
+138,Q,8/12/2024,8/16/2024,5,Construction
+139,E,8/14/2024,8/15/2024,2,Construction
+140,C1,8/14/2024,3/6/2025,205,Construction
+141,Lot 11b,8/17/2024,8/17/2024,1,Operations
+142,N1/4/6/8/9,8/22/2024,8/25/2024,4,Special Event
+143,Baltimore Hall,9/4/2024,9/4/2024,1,Operations
+144,T,9/9/2024,9/10/2024,2,Operations
+145,Lot 11b,10/14/2024,10/14/2024,1,Special Event
+146,Lot 4b,10/15/2024,10/15/2024,1,Special Event
+147,Z,10/15/2024,10/15/2024,1,Special Event
+148,Xfinity Visitor Lot,10/16/2024,10/16/2024,1,Special Event
+149,Union Lane Garage,10/17/2024,10/17/2024,1,Special Event
+150,SDG,10/17/2024,10/17/2024,1,Special Event
+151,HC,10/17/2024,10/17/2024,1,Special Event
+152,QQ,10/18/2024,10/18/2024,1,Special Event
+153,Skinner Bldg,10/18/2024,10/18/2024,1,Special Event
+154,Lot 1b,10/18/2024,10/18/2024,1,Special Event
+155,Xfinity Visitor Lot,10/18/2024,10/18/2024,1,Special Event
+156,Mowatt Visitor,10/18/2024,10/18/2024,1,Special Event
+157,Union Lane Garage,10/18/2024,10/18/2024,1,Special Event
+158,Y,10/18/2024,10/18/2024,1,Special Event
+159,Mowatt Lane Garage,10/18/2024,10/18/2024,1,Special Event
+160,SDG,10/18/2024,10/18/2024,1,Special Event
+161,SDG,10/18/2024,10/18/2024,1,Special Event
+162,Regents Drive Garage,10/18/2024,10/18/2024,1,Special Event
+163,Lot 1b,10/18/2024,10/18/2024,1,Special Event
+164,Lot 11b,10/18/2024,10/18/2024,1,Special Event
+165,Union Lane Garage,10/19/2024,10/19/2024,1,Special Event
+166,Lot PH1,10/21/2024,10/21/2024,1,Construction
+167,R,10/21/2024,10/23/2024,3,Construction
+168,Lot 1b,10/21/2024,10/21/2024,1,Special Event
+169,Terrrapin Trail Garage,10/21/2024,11/1/2024,12,Operations
+170,SDG,10/22/2024,10/22/2024,1,Special Event
+171,Z,10/23/2024,10/24/2024,2,Construction
+172,LL,10/23/2024,11/6/2024,15,Operations
+173,LL,10/23/2024,11/6/2024,15,Operations
+174,GG,10/23/2024,10/23/2024,1,Special Event
+175,Lot 11b,10/23/2024,10/23/2024,1,Special Event
+176,Xfinity Visitor Lot,10/23/2024,10/23/2024,1,Special Event
+177,Union Lane Garage,10/24/2024,10/24/2024,1,Special Event
+178,Union Lane Garage,10/25/2024,10/26/2024,2,Special Event
+179,Xfinity Visitor Lot,10/25/2024,10/25/2024,1,Special Event
+180,Mowatt Visitor,10/25/2024,10/25/2024,1,Special Event
+181,Mowatt Lane Garage,10/25/2024,10/25/2024,1,Special Event
+182,QQ,10/26/2024,10/27/2024,2,Special Event
+183,L,10/26/2024,10/27/2024,2,Special Event
+184,SDG,10/26/2024,10/26/2024,1,Special Event
+185,GG,10/28/2024,10/28/2024,1,Special Event
+186,Union Lane Garage,10/28/2024,10/28/2024,1,Special Event
+187,A,10/30/2024,10/30/2024,1,Special Event
+188,LL,10/30/2024,10/30/2024,1,Special Event
+189,Lot 4n,10/31/2024,10/31/2024,1,Construction
+190,Union Lane Garage,10/31/2024,10/31/2024,1,Special Event
+191,Hornbake Library,10/31/2024,10/31/2024,1,Construction
+192,Lot 1b,11/3/2024,11/3/2024,1,Special Event
+193,R,11/4/2024,11/4/2024,1,Construction
+194,Lot 1b,11/4/2024,1/10/2024,-298,Construction
+195,Regents Drive Garage,11/4/2024,11/4/2024,1,Operations
+196,Regents Drive Garage,11/4/2024,11/4/2024,1,Operations
+197,N1/4/6/8/9,11/4/2024,11/8/2024,5,Construction
+198,LL,11/4/2024,11/8/2024,5,Construction
+199,Stadium Drive Garage,11/4/2024,11/15/2024,12,Operations
+200,Lot 11b,11/7/2024,11/7/2024,1,Special Event
+201,Xfinity Visitor Lot,11/7/2024,11/7/2024,1,Special Event
+202,Regents Drive Garage,11/8/2024,11/8/2024,1,Special Event
+203,Mowatt Visitor,11/8/2024,11/8/2024,1,Special Event
+204,Mowatt Lane Garage,11/8/2024,11/8/2024,1,Special Event
+205,Xfinity Visitor Lot,11/8/2024,11/8/2024,1,Special Event
+206,Lot 16a,11/11/2024,11/11/2024,1,Operations
+207,O1/3,11/11/2024,11/11/2024,1,Special Event
+208,Chapel Meters,11/11/2024,11/11/2024,1,Special Event
+209,Xfinity Visitor Lot,11/11/2024,11/11/2024,1,Special Event
+210,YY,11/11/2024,11/13/2024,3,Construction
+211,T,11/11/2024,11/13/2024,3,Construction
+212,K,11/12/2024,11/16/2024,5,Operations
+213,Xfinity Visitor Lot,11/13/2024,11/13/2024,1,Special Event
+214,GG,11/15/2024,11/15/2024,1,Special Event
+215,Mowatt Visitor,11/15/2024,11/15/2024,1,Special Event
+216,Mowatt Lane Garage,11/15/2024,11/15/2024,1,Special Event
+217,Stadium Drive Garage,11/15/2024,11/27/2024,13,Operations
+218,Union Lane Garage,11/16/2024,11/16/2024,1,Special Event
+219,Lot 11b,11/16/2024,11/16/2024,1,Special Event
+220,C1,11/19/2024,11/19/2024,1,Construction
+221,Mowatt Lane Garage,11/22/2024,11/22/2024,1,Special Event
+222,Queen Anne's Hall,11/24/2024,12/2/2024,9,Special Event
+223,Stadium Drive,11/26/2024,11/26/2024,1,Special Event
+224,W,11/26/2024,12/16/2024,21,Operations
+225,Mowatt Lane Garage,11/27/2024,11/29/2024,3,Operations
+226,Chapel Hill,11/29/2024,11/30/2024,2,Special Event
+227,Stadium Drive,12/1/2024,12/1/2024,1,Operations
+228,Hornbake Library,12/2/2024,12/6/2024,5,Construction
+229,SDG,12/3/2024,12/3/2024,1,Special Event
+230,GG,12/4/2024,12/4/2024,1,Special Event
+231,SDG,12/4/2024,12/4/2024,1,Special Event
+232,ERC,12/5/2024,12/8/2024,4,Special Event
+233,GG,12/6/2024,12/6/2024,1,Special Event
+234,SDG,12/6/2024,12/6/2024,1,Special Event
+235,Chapel Meters,12/6/2024,12/6/2024,1,Special Event
+236,Chapel Hill,12/6/2024,12/6/2024,1,Special Event
+237,Lot 2b,12/9/2024,12/9/2024,1,Operations
+238,Biology Psychology Bldg,12/10/2024,12/10/2024,1,Construction
+239,Meter/Pay Station Area,12/10/2024,12/18/2024,9,Special Event
+240,Y,12/10/2024,12/18/2024,9,Special Event
+241,S7/8,12/10/2024,12/18/2024,9,Special Event
+242,N1/4/6/8/9,12/10/2024,12/18/2024,9,Special Event
+243,GG,12/11/2024,12/11/2024,1,Special Event
+244,ERC,12/12/2024,12/15/2024,4,Special Event
+245,SDG,12/13/2024,12/13/2024,1,Special Event
+246,Chapel Hill,12/14/2024,12/14/2024,1,Special Event
+247,L,12/16/2024,1/21/2025,37,Construction
+248,Z,12/16/2024,12/20/2024,5,Construction
+249,Lot 1b,12/16/2024,12/20/2024,5,Construction
+250,Stadium Drive,12/17/2024,12/17/2024,1,Operations
+251,FF,12/18/2024,3/1/2025,74,Construction
+252,Union Lane Garage,12/18/2024,1/24/2025,38,Construction
+253,FF,12/18/2024,3/1/2025,74,Construction
+254,Lot 4b,12/19/2024,12/19/2024,1,Special Event
+255,Lot 9b,12/19/2024,12/19/2024,1,Special Event
+256,Lot 1c,12/19/2024,12/19/2024,1,Special Event
+257,UU,12/19/2024,12/19/2024,1,Special Event
+258,Xfinity Visitor Lot,12/19/2024,12/19/2024,1,Special Event
+259,Stadium Drive Garage,12/19/2024,12/19/2024,1,Special Event
+260,Mowatt Visitor,1/7/2025,1/10/2025,4,Operations
+261,Lot PH1,1/8/2025,1/17/2025,10,Operations
+262,Lot 1b,1/8/2025,1/17/2025,10,Operations
+263,Lot 2b,1/8/2025,1/17/2025,10,Operations
+264,LL,1/10/2025,1/11/2025,2,Special Event
+265,LL,1/10/2025,1/11/2025,2,Special Event
+266,SDG,1/14/2025,1/15/2025,2,Special Event
+267,Hornbake Library,1/14/2025,1/14/2025,1,Construction
+268,Chapel Hill,1/15/2025,1/15/2025,1,Operations
+269,School of Public Health,1/16/2025,1/20/2025,5,Special Event
+270,ERC,1/17/2025,1/19/2025,3,Special Event
+271,UU,1/18/2025,1/18/2025,1,Special Event
+272,K,1/20/2025,1/20/2025,1,Operations
+273,J,1/20/2025,3/6/2025,46,Construction
+274,J,1/20/2025,1/20/2025,1,Construction
+275,L,1/22/2025,1/22/2025,1,Operations
+276,TV,1/24/2025,1/24/2025,1,Special Event
+277,School of Public Health,1/24/2025,1/24/2025,1,Special Event
+278,ERC,1/24/2025,1/26/2025,3,Special Event
+279,Stadium Drive,1/25/2025,1/25/2025,1,Operations
+280,Union Lane Garage,1/28/2025,1/28/2025,1,Special Event
+281,School of Public Health,1/28/2025,1/28/2025,1,Special Event
+282,GG,1/28/2025,1/28/2025,1,Special Event
+283,J,1/29/2025,2/9/2025,12,Special Event
+284,Chemistry Bldg,1/29/2025,2/7/2025,10,Construction
+285,Chapel Meters,1/30/2025,1/30/2025,1,Special Event
+286,Union Lane Garage,1/31/2025,1/31/2025,1,Special Event
+287,ERC,1/31/2025,2/1/2025,2,Special Event
+288,T,1/31/2025,2/1/2025,2,Construction
+289,L,2/3/2025,2/15/2025,13,Construction
+290,GG,2/4/2025,2/4/2025,1,Special Event
+291,SDG,2/7/2025,2/7/2025,1,Special Event
+292,Union Lane Garage,2/10/2025,2/10/2025,1,Special Event
+293,Regents Drive Garage,2/10/2025,2/10/2025,1,Special Event
+294,Union Lane Garage,2/11/2025,2/11/2025,1,Special Event
+295,Union Lane Garage,2/12/2025,2/12/2025,1,Special Event
+296,Union Lane Garage,2/12/2025,2/12/2025,1,Special Event
+297,SDG,2/13/2025,2/13/2025,1,Special Event
+298,SDG,2/14/2025,2/14/2025,1,Special Event
+299,Xfinity Visitor Lot,2/14/2025,2/14/2025,1,Special Event
+300,SDG,2/17/2025,2/17/2025,1,Special Event
+301,SDG,2/19/2025,2/19/2025,1,Special Event
+302,Union Lane Garage,2/19/2025,2/19/2025,1,Special Event
+303,SDG,2/21/2025,2/21/2025,1,Special Event
+304,Union Lane Garage,2/24/2025,2/24/2025,1,Special Event
+305,Union Lane Garage,2/24/2025,2/27/2025,4,Special Event
+306,V,2/25/2025,2/25/2025,1,Special Event
+307,Union Lane Garage,2/26/2025,2/28/2025,3,Special Event
+308,Regents Drive Garage,2/26/2025,2/28/2025,3,Special Event
+309,Lot 9b,3/3/2025,3/7/2025,5,Construction
+310,Regents Drive Garage,3/5/2025,3/5/2025,1,Special Event
+311,Xfinity Visitor Lot,3/6/2025,3/6/2025,1,Special Event
+312,SDG,3/7/2025,3/7/2025,1,Special Event
+313,Xfinity Visitor Lot,3/7/2025,3/7/2025,1,Special Event
+314,Union Lane Garage,3/10/2025,3/10/2025,1,Special Event
+315,Regents Drive Garage,3/10/2025,3/10/2025,1,Special Event
+316,Stadium Drive,3/14/2025,3/14/2025,1,Operations
+317,Stadium Drive,3/23/2025,3/23/2025,1,Operations
+318,SDG,4/4/2025,4/4/2025,1,Special Event
+319,Union Lane Garage,4/24/2025,4/24/2025,1,Special Event
+320,Union Lane Garage,5/1/2025,5/2/2025,2,Special Event
+321,Regents Drive Garage,5/1/2025,5/2/2025,2,Special Event
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

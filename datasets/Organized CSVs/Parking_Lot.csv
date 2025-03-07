@@ -1,0 +1,1000 @@
+﻿lot_id,lot_name,permit,enforcement_days,posted_restrictions,enforcement_start,enforcement_end
+1,A,ADA Placard,Weekends,Restricted after 4PM,0:00:00,0:00:00
+2,A,Surface Lot,Weekdays,Restricted after 4PM,7:00:00,16:00:00
+3,A,No Permit,Weekdays,Restricted after 4PM,16:00:00,7:00:00
+4,AA,No Permit,Weekends,Special Restrictions,0:00:00,0:00:00
+5,AA,Validation Code/Meter Permit,Weekdays,Special Restrictions,7:00:00,16:00:00
+6,AA,Basketball Permit,Weekdays,Special Restrictions,16:00:00,7:00:00
+7,B,Hearing and Speech Clinic Permit,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+8,BB,Event Attendee (Reserved parking provided),Weekends,Special Restrictions,0:00:00,0:00:00
+9,BB,Event Attendee (Parking not provided),Weekdays,Special Restrictions,7:00:00,16:00:00
+10,BB,Visitor After Hours Permit,Weekdays,Special Restrictions,16:00:00,7:00:00
+11,C1,Time & Materials Permit,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+12,C2,Service Permit,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+13,CC,Annual FS Permit,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+14,DD,Semester FS Permit,Weekends,Restricted after 4PM,0:00:00,0:00:00
+15,DD,FS Bundle Pack (2 Day/Week),Weekdays,Restricted after 4PM,7:00:00,16:00:00
+16,DD,FS Bundle Pack (3 Day/Week),Weekdays,Restricted after 4PM,16:00:00,7:00:00
+17,E,ADA Placard Only,Weekends,Special Restrictions,0:00:00,0:00:00
+18,E,Annual FS Permit + ADA,Weekdays,Special Restrictions,7:00:00,16:00:00
+19,E,Semester FS Permit + ADA,Weekdays,Special Restrictions,16:00:00,7:00:00
+20,ERC,Semester FS Permit + Medical Permit,Always,Visitor,7:00:00,0:00:00
+21,F,Annual FS Permit + All Campus,Weekdays,24-Hour restricted,16:00:00,7:00:00
+22,F,UMGC Permit,Weekends,24-Hour restricted,0:00:00,0:00:00
+23,F,No Permit,Always,24-Hour restricted,0:00:00,0:00:00
+24,FF,Rainy Day Bike Permit,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+25,G,Annual Permit + Medical Permit,Always,24-Hour restricted,0:00:00,0:00:00
+26,GG,Retiree Permit,Weekends,Restricted after 4PM,0:00:00,0:00:00
+27,GG,Emeritus Permit,Weekdays,Restricted after 4PM,7:00:00,16:00:00
+28,GG,Daily Permit,Weekdays,Restricted after 4PM,16:00:00,7:00:00
+29,GG2,FS Bundle Pack (3 Day/Week) + ADA,Always,Special Restrictions,0:00:00,0:00:00
+30,HC,Annual Commuter Permit,Always,24-Hour restricted,0:00:00,0:00:00
+31,HH,Micromobility Permit,Weekends,Restricted after 4PM,0:00:00,0:00:00
+32,HH,Annual Resident Permit,Weekdays,Restricted after 4PM,0:00:00,6:59:00
+33,HH,Annual Overnight Storage Permit,Weekdays,Restricted after 4PM,7:00:00,16:00:00
+34,HH,No Permit,Weekdays,Restricted after 4PM,16:00:00,23:59:00
+35,II,No Permit,Weekends,24-Hour restricted,0:00:00,0:00:00
+36,II,ADA Permit Only,Weekdays,24-Hour restricted,7:00:00,16:00:00
+37,II,Semester Commuter Permit + Medical Permit,Weekdays,24-Hour restricted,16:00:00,20:00:00
+38,J,Annual Resident Permit + ADA ,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+39,JJ1,Semester Overnight Storage + ADA,Always,24-Hour restricted,0:00:00,0:00:00
+40,JJ3,Annual Commuter Permit + Game Day Exception Permit,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+41,K,Rainy Day Bike Permit,Weekdays,Miscellaneous Permissions,7:00:00,16:00:00
+42,KK,Breaksgiving Permit,Weekdays,Special Restrictions,7:00:00,20:00:00
+43,L,Semester Resident,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+44,LL,Semester Resident 6 + Basketball Permit,Weekends,24-Hour restricted,0:00:00,0:00:00
+45,LL,Bundle Pack,Weekdays,24-Hour restricted,16:00:00,7:00:00
+46,LL,1 Week Permit ,Always,24-Hour restricted,0:00:00,0:00:00
+47,Lot 10a,Annual Overnight Storage Permit + ADA,Weekends,Unrestricted after 4PM,0:00:00,0:00:00
+48,Lot 10a,Motorcycle Permit,Weekdays,Unrestricted after 4PM,0:00:00,6:59:00
+49,Lot 10a,Courtyards Permit,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+50,Lot 10a,Annual Commuter Permit + After Hours Permit,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+51,Lot 11b,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+52,Lot 11b,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+53,Lot 11b,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+54,Lot 11b,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+55,Lot 11b,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+56,Lot 11b,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+57,Lot 15,,Always,24-Hour restricted,0:00:00,0:00:00
+58,Lot 16a,,Always,24-Hour restricted,0:00:00,0:00:00
+59,Lot 16b,,Always,24-Hour restricted,0:00:00,0:00:00
+60,Lot 16f,,Always,24-Hour restricted,0:00:00,0:00:00
+61,Lot 17a,,Always,24-Hour restricted,0:00:00,0:00:00
+62,Lot 17b,,Always,24-Hour restricted,0:00:00,0:00:00
+63,Lot 17c,,Always,24-Hour restricted,0:00:00,0:00:00
+64,Lot 17d,,Always,24-Hour restricted,0:00:00,0:00:00
+65,Lot 19,,Always,24-Hour restricted,0:00:00,0:00:00
+66,Lot 1b,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+67,Lot 1b,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+68,Lot 1b,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+69,Lot 1b,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+70,Lot 1b,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+71,Lot 1b,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+72,Lot 1c,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+73,Lot 1c,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+74,Lot 1c,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+75,Lot 1c,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+76,Lot 1c,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+77,Lot 1c,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+78,Lot 1d,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+79,Lot 1d,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+80,Lot 1d,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+81,Lot 1d,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+82,Lot 1d,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+83,Lot 1d,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+84,Lot 1e,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+85,Lot 1e,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+86,Lot 1e,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+87,Lot 1e,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+88,Lot 1e,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+89,Lot 1e,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+90,Lot 1f,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+91,Lot 1f,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+92,Lot 1f,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+93,Lot 1f,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+94,Lot 1f,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+95,Lot 1f,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+96,Lot 2a,,Always,24-Hour restricted,0:00:00,0:00:00
+97,Lot 2b,,Always,24-Hour restricted,0:00:00,0:00:00
+98,Lot 2f,,Always,24-Hour restricted,0:00:00,0:00:00
+99,Lot 3 (NEW),,Weekends,24-Hour restricted,0:00:00,23:59:00
+100,Lot 3 (NEW),,Weekdays,24-Hour restricted,0:00:00,2:59:00
+101,Lot 3 (NEW),,Weekdays,24-Hour restricted,3:00:00,4:59:00
+102,Lot 3 (NEW),,Weekdays,24-Hour restricted,5:00:00,23:59:00
+103,Lot 3 (OLD),,Always,24-Hour restricted,0:00:00,0:00:00
+104,Lot 4a,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+105,Lot 4a,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+106,Lot 4a,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+107,Lot 4a,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+108,Lot 4a,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+109,Lot 4a,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+110,Lot 4b,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+111,Lot 4b,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+112,Lot 4b,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+113,Lot 4b,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+114,Lot 4b,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+115,Lot 4b,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+116,Lot 4h,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+117,Lot 4h,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+118,Lot 4h,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+119,Lot 4h,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+120,Lot 4h,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+121,Lot 4k,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+122,Lot 4m,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+123,Lot 4m,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+124,Lot 4m,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+125,Lot 4m,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+126,Lot 4m,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+127,Lot 4m,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+128,Lot 4n,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+129,Lot 4n,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+130,Lot 4n,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+131,Lot 4n,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+132,Lot 4n,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+133,Lot 4n,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+134,Lot 6,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+135,Lot 6,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+136,Lot 6,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+137,Lot 6,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+138,Lot 6,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+139,Lot 6,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+140,Lot 8,,Always,24-Hour restricted,0:00:00,0:00:00
+141,Lot 9b,,Weekends,Unrestricted after 4PM,0:00:00,23:59:00
+142,Lot 9b,,Weekdays,Unrestricted after 4PM,0:00:00,2:59:00
+143,Lot 9b,,Weekdays,Unrestricted after 4PM,3:00:00,4:59:00
+144,Lot 9b,,Weekdays,Unrestricted after 4PM,5:00:00,6:59:00
+145,Lot 9b,,Weekdays,Unrestricted after 4PM,7:00:00,15:59:00
+146,Lot 9b,,Weekdays,Unrestricted after 4PM,16:00:00,23:59:00
+147,Lot V,,Always,Unrestricted after 4PM,7:00:00,0:00:00
+148,R2,,Always,24-Hour restricted,0:00:00,0:00:00
+149,MM,,Always,24-Hour restricted,0:00:00,0:00:00
+150,MM,,Weekends,24-Hour restricted,0:00:00,0:00:00
+151,MM,,Weekdays,24-Hour restricted,16:00:00,7:00:00
+152,Meter/Pay Station Area,,Always,Visitor,7:00:00,0:00:00
+153,Motorcycle,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+154,Mowatt Lane Garage,,Always,Miscellaneous Permissions,7:00:00,0:00:00
+155,Mowatt Visitor,,Always,Visitor,7:00:00,0:00:00
+156,N1/4/6/8/9,,Always,24-Hour restricted,0:00:00,0:00:00
+157,N1/4/6/8/9,,Weekends,24-Hour restricted,0:00:00,0:00:00
+158,N1/4/6/8/9,,Weekdays,24-Hour restricted,16:00:00,7:00:00
+159,N3/7,,Weekends,Restricted after 4PM,0:00:00,0:00:00
+160,N3/7,,Weekdays,Restricted after 4PM,7:00:00,16:00:00
+161,N3/7,,Weekdays,Restricted after 4PM,16:00:00,7:00:00
+162,N5,,Weekends,Unrestricted after 4PM,0:00:00,0:00:00
+163,N5,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+164,N5,,Weekdays,Unrestricted after 4PM,16:00:00,7:00:00
+165,NN,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+166,O1/3,,Weekends,Restricted after 4PM,0:00:00,0:00:00
+167,O1/3,,Weekdays,Restricted after 4PM,7:00:00,16:00:00
+168,O1/3,,Weekdays,Restricted after 4PM,16:00:00,7:00:00
+169,O5,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+170,P,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+171,PH1,,Always,Unrestricted after 4PM,0:00:00,0:00:00
+172,PH2,,Weekends,24-Hour restricted,0:00:00,0:00:00
+173,PH2,,Weekdays,24-Hour restricted,16:00:00,7:00:00
+174,Q,,Weekends,Unrestricted after 4PM,0:00:00,0:00:00
+175,Q,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+176,Q,,Weekdays,Unrestricted after 4PM,16:00:00,20:00:00
+177,Q1,,Weekends,Modified restricted,0:00:00,0:00:00
+178,Q1,,Weekdays,Modified restricted,7:00:00,16:00:00
+179,Q1,,Weekdays,Modified restricted,16:00:00,20:00:00
+180,QQ,,Weekends,Restricted after 4PM,0:00:00,0:00:00
+181,QQ,,Weekdays,Restricted after 4PM,7:00:00,16:00:00
+182,QQ,,Weekdays,Restricted after 4PM,16:00:00,7:00:00
+183,R,,Always,24-Hour restricted,0:00:00,0:00:00
+184,R,,Weekends,24-Hour restricted,0:00:00,0:00:00
+185,R,,Weekdays,24-Hour restricted,16:00:00,7:00:00
+186,RR,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+187,Regents Drive Garage,,Always,Unrestricted after 4PM,7:00:00,0:00:00
+188,S3/4,,Weekends,Restricted after 4PM,0:00:00,0:00:00
+189,S3/4,,Weekdays,Restricted after 4PM,7:00:00,16:00:00
+190,S3/4,,Weekdays,Restricted after 4PM,16:00:00,7:00:00
+191,S7/8,,Always,24-Hour restricted,0:00:00,0:00:00
+192,S7/8,,Weekends,24-Hour restricted,0:00:00,0:00:00
+193,S7/8,,Weekdays,24-Hour restricted,16:00:00,7:00:00
+194,S9,,Weekends,Unrestricted after 4PM,0:00:00,0:00:00
+195,S9,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+196,S9,,Weekdays,Unrestricted after 4PM,16:00:00,7:00:00
+197,SA,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+198,SDG,,Always,24-Hour restricted,0:00:00,0:00:00
+199,SDStar,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+200,SS,,Always,24-Hour restricted,0:00:00,0:00:00
+201,SS,,Weekends,24-Hour restricted,0:00:00,0:00:00
+202,SS,,Weekdays,24-Hour restricted,16:00:00,7:00:00
+203,Stadium Drive Garage,,Weekdays,Miscellaneous Permissions,0:00:00,6:59:00
+204,Stadium Drive Garage,,Weekdays,Miscellaneous Permissions,7:00:00,23:59:00
+205,Student Summer,,Always,,0:00:00,0:00:00
+206,T,,Weekends,Restricted after 4PM,0:00:00,0:00:00
+207,T,,Weekdays,Restricted after 4PM,7:00:00,16:00:00
+208,T,,Weekdays,Restricted after 4PM,16:00:00,7:00:00
+209,TT,,Always,24-Hour restricted,0:00:00,0:00:00
+210,TT,,Weekends,24-Hour restricted,0:00:00,0:00:00
+211,TT,,Weekdays,24-Hour restricted,16:00:00,7:00:00
+212,TV,,Weekends,Special Restrictions,0:00:00,0:00:00
+213,TV,,Weekdays,Special Restrictions,7:00:00,16:00:00
+214,TV,,Weekdays,Special Restrictions,16:00:00,7:00:00
+215,U1,,Always,24-Hour restricted,0:00:00,0:00:00
+216,U2,,Always,Unrestricted after 4PM,0:00:00,0:00:00
+217,UU,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+218,Union Lane Garage,,Always,Miscellaneous Permissions,7:00:00,0:00:00
+219,V,,Always,Unrestricted after 4PM,0:00:00,0:00:00
+220,VM,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+221,W,,Weekends,Restricted after 4PM,0:00:00,0:00:00
+222,W,,Weekdays,Restricted after 4PM,7:00:00,16:00:00
+223,W,,Weekdays,Restricted after 4PM,16:00:00,7:00:00
+224,W2,,Weekends,Miscellaneous Permissions,0:00:00,0:00:00
+225,W2,,Weekdays,Miscellaneous Permissions,7:00:00,16:00:00
+226,W2,,Weekdays,Miscellaneous Permissions,16:00:00,7:00:00
+227,X,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+228,XX,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+229,Xfinity Visitor Lot,,Always,Visitor,6:00:00,23:59:59
+230,Y,,Weekends,Modified restricted,0:00:00,0:00:00
+231,Y,,Weekdays,Modified restricted,7:00:00,16:00:00
+232,Y,,Weekdays,Modified restricted,16:00:00,7:00:00
+233,Y,,Weekdays,Modified restricted,16:00:00,20:00:00
+234,YC,,Weekdays,Special Restrictions,0:00:00,18:00:00
+235,YY,,Always,Unrestricted after 4PM,0:00:00,0:00:00
+236,Z,,Weekdays,Unrestricted after 4PM,7:00:00,16:00:00
+237,A.V. Williams Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+238,Administrative Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+239,Allegany Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+240,Alumni Center,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+241,Animal Science Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+242,Annapolis Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+243,Anne Arundel Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+244,Baltimore Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+245,Bel Air Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+246,Benjamin Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+247,Biology Psychology Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+248,Bioscience Research Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+249,Calvert Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+250,Campus Drive,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+251,Carroll Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+252,Cecil Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+253,Centreville Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+254,Chapel Hill,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+255,Chapel Meters,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+256,Charles Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+257,Chemistry Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+258,Chesapeake Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+259,Chestertown Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+260,Clarice Smith Center,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+261,Cole Field House,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+262,Commons 1,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+263,Commons 2,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+264,Commons 3,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+265,Commons 4,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+266,Commons 5,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+267,Commons 6,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+268,Commons 7,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+269,Computer Science Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+270,Courtyards,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+271,Cumberland Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+272,Denton Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+273,Dorchester Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+274,Easton Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+275,Edward St. John Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+276,Elkton Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+277,Ellicott Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+278,Ellicott Visitor,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+279,Francis Scott Key Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+280,Frederick Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+281,Garrett Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+282,Geology Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+283,Glenn Martin Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+284,H. J. Patterson Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+285,Hagerstown Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+286,Harford Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+287,Health Center,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+288,Hornbake Library,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+289,Howard Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+290,J. M. Patterson Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+291,Jimenez Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+292,Kim Engineering Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+293,LaPlata Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+294,Lee Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+295,Leonardtown,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+296,Library Lane,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+297,Lot 12A,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+298,Lot 14A,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+299,Lot 14B,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+300,Lot 14C,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+301,Lot 22B,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+302,Lot 22C,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+303,Lot 24D,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+304,Marie Mount Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+305,Maryland Stadium,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+306,McKeldin Library,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+307,Mitchell Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+308,Montgomery Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+309,Morrill Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+310,Mowatt Lane,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+311,North Gym,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+312,Nyumburu Culture Center,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+313,Oakland Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+314,P. Mitchell Art/Soc Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+315,Paint Branch Drive,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+316,Patuxent Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+317,Physical Science Technology,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+318,Plant Sciences Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+319,Pocomoke Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+320,Preinkert Field House,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+321,Prince Frederick Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+322,Pyon-Chen,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+323,Queen Anne's Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+324,Regents Drive,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+325,Ritchie Colliseum,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+326,Rossborough Drive,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+327,Rossborough Inn,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+328,Rossborough Lane,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+329,SCUB 1,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+330,SCUB 2,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+331,SCUB 3,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+332,SCUB 4,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+333,SPH,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+334,School of Public Health,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+335,Seneca Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+336,Severn Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+337,Shipley Field,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+338,Shoemaker Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+339,Skinner Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+340,Somerset Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+341,St. Mary's Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+342,Stadium Concourse,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+343,Stadium Drive,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+344,Stamp Student Union,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+345,Susquehanna Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+346,Symons Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+347,Systems Administration Bldg,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+348,Taliaferro Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+349,Tawes Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+350,Technology Drive,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+351,Terrrapin Trail Garage,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+352,Turner Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+353,Union Lane,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+354,Valley Drive,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+355,Van Munching Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+356,Visitor Center,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+357,Washington Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+358,Wicomico Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+359,Woods Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+360,Worchester Hall,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+361,Young Children Center,,Always,Miscellaneous Permissions,0:00:00,0:00:00
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
