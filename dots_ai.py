@@ -1,4 +1,15 @@
-class lot
+parkingLotList = []
+
+
+
+class ParkingLot:
+    def __init__(name, lotOpens, lotCloses):
+        self.name = name
+        self.lotOpens = lotOpens
+        self.lotCloses = lotCloses
+
+class initParkingLots():
+
 
 
 
