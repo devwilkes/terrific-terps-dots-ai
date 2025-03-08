@@ -1,0 +1,6 @@
+﻿  IC25074_Project.cpp
+C:\Users\Brennen\source\repos\IC25074_Project\IC25074_Project\IC25074_Project.cpp(99,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ParkingLot.cpp
+  utility.cpp
+  Generating Code...
+  IC25074_Project.vcxproj -> C:\Users\Brennen\source\repos\IC25074_Project\x64\Debug\IC25074_Project.exe

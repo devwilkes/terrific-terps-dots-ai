@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{807832F7-3947-4794-83E0-1782DFE8FE23}|IC25074_Project\\IC25074_Project.vcxproj|C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\IC25074_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{807832F7-3947-4794-83E0-1782DFE8FE23}|IC25074_Project\\IC25074_Project.vcxproj|solutionrelative:IC25074_Project\\IC25074_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\ParkingLot.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IC25074_Project\\ParkingLot.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\InfoChallenge_CustomerCases.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IC25074_Project\\InfoChallenge_CustomerCases.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807832F7-3947-4794-83E0-1782DFE8FE23}|IC25074_Project\\IC25074_Project.vcxproj|C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\ParkingLot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{807832F7-3947-4794-83E0-1782DFE8FE23}|IC25074_Project\\IC25074_Project.vcxproj|solutionrelative:IC25074_Project\\ParkingLot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IC25074_Project\\utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\utility.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IC25074_Project\\utility.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\tests.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IC25074_Project\\tests.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\foo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:foo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "foo.txt",
+              "DocumentMoniker": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\foo.txt",
+              "RelativeDocumentMoniker": "foo.txt",
+              "ToolTip": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\foo.txt",
+              "RelativeToolTip": "foo.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACNBQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-07T02:04:59.331Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParkingLot.cpp",
+              "DocumentMoniker": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\ParkingLot.cpp",
+              "RelativeDocumentMoniker": "IC25074_Project\\ParkingLot.cpp",
+              "ToolTip": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\ParkingLot.cpp",
+              "RelativeToolTip": "IC25074_Project\\ParkingLot.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T12:36:44.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingLot.hpp",
+              "DocumentMoniker": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\ParkingLot.hpp",
+              "RelativeDocumentMoniker": "IC25074_Project\\ParkingLot.hpp",
+              "ToolTip": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\ParkingLot.hpp",
+              "RelativeToolTip": "IC25074_Project\\ParkingLot.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAnwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T12:36:02.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfoChallenge_CustomerCases.csv",
+              "DocumentMoniker": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\InfoChallenge_CustomerCases.csv",
+              "RelativeDocumentMoniker": "IC25074_Project\\InfoChallenge_CustomerCases.csv",
+              "ToolTip": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\InfoChallenge_CustomerCases.csv",
+              "RelativeToolTip": "IC25074_Project\\InfoChallenge_CustomerCases.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-03-08T12:44:23.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IC25074_Project.cpp",
+              "DocumentMoniker": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\IC25074_Project.cpp",
+              "RelativeDocumentMoniker": "IC25074_Project\\IC25074_Project.cpp",
+              "ToolTip": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\IC25074_Project.cpp",
+              "RelativeToolTip": "IC25074_Project\\IC25074_Project.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T12:12:03.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "utility.cpp",
+              "DocumentMoniker": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\utility.cpp",
+              "RelativeDocumentMoniker": "IC25074_Project\\utility.cpp",
+              "ToolTip": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\utility.cpp",
+              "RelativeToolTip": "IC25074_Project\\utility.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T12:07:18.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "utility.hpp",
+              "DocumentMoniker": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\utility.hpp",
+              "RelativeDocumentMoniker": "IC25074_Project\\utility.hpp",
+              "ToolTip": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\utility.hpp",
+              "RelativeToolTip": "IC25074_Project\\utility.hpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T12:04:55.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tests.hpp",
+              "DocumentMoniker": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\tests.hpp",
+              "RelativeDocumentMoniker": "IC25074_Project\\tests.hpp",
+              "ToolTip": "C:\\Users\\Brennen\\source\\repos\\IC25074_Project\\IC25074_Project\\tests.hpp",
+              "RelativeToolTip": "IC25074_Project\\tests.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T12:04:27.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 371,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
