@@ -1,0 +1,360 @@
+Opened!
+Test cases file opened!
+Customer 1:
+Allowed parking spots on 09/19/2024 at 240000 with Permit No Permits
+Summary:
+False positives: 0
+Total eligible counts: 8
+Eligible lots found: 0
+
+Customer 2:
+Allowed parking spots on 03/05/2025 at 101500 with Permit Lot 1
+Summary: Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f,
+False positives: 0
+Total eligible counts: 5
+Eligible lots found: 5
+
+Customer 3:
+Allowed parking spots on 02/05/2025 at 140000 with Permit No Permits
+Summary:
+False positives: 0
+Total eligible counts: 8
+Eligible lots found: 0
+
+Customer 4:
+Allowed parking spots on 04/28/2025 at 163000 with Permit No Permits
+Summary:
+False positives: 0
+Total eligible counts: 22
+Eligible lots found: 0
+
+Customer 5:
+Allowed parking spots on 11/08/2024 at 143000 with Permit Paid Parking Area
+Summary:
+False positives: 0
+Total eligible counts: 8
+Eligible lots found: 0
+
+Customer 40:
+Allowed parking spots on 02/28/2024 at 190000 with Permit No Permits
+Summary:
+False positives: 0
+Total eligible counts: 1
+Eligible lots found: 0
+
+Customer 41:
+Allowed parking spots on 09/16/2024 at 111500 with Permit No Permits
+Summary:
+False positives: 0
+Total eligible counts: 1
+Eligible lots found: 0
+
+Customer 42:
+Allowed parking spots on 02/12/2025 at 93000 with Permit ULG
+Summary:
+False positives: 0
+Total eligible counts: 1
+Eligible lots found: 0
+
+Customer 43:
+Allowed parking spots on 01/25/2025 at 134500 with Permit No Permits
+Summary: Lot 11b, Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f, Lot 4a, Lot 4b, Lot 4h, Lot 4m, Lot 4n, Lot 6, Lot 9b,
+False positives: 1
+Total eligible counts: 21
+Eligible lots found: 12
+
+Customer 44:
+Allowed parking spots on 03/28/2025 at 200000 with Permit Visitor After Hours
+Summary:
+False positives: 0
+Total eligible counts: 22
+Eligible lots found: 0
+
+Customer 45:
+Allowed parking spots on 04/29/2025 at 111500 with Permit T&M
+Summary:
+False positives: 0
+Total eligible counts: 1
+Eligible lots found: 0
+
+Customer 46:
+Allowed parking spots on 10/30/2024 at 104500 with Permit Service
+Summary:
+False positives: 0
+Total eligible counts: 1
+Eligible lots found: 0
+
+Customer 6:
+Allowed parking spots on 12/17/2024 at 91500 with Permit RR
+Summary: A, AA, B, BB, C1, C2, CC, DD, E, F, FF, G, GG, GG2, HH, II, J, JJ1, JJ3, K, KK, L, LL, Lot 11b, Lot 15, Lot 16a, Lot 16b, Lot 16f, Lot 17a, Lot 17b, Lot 17c, Lot 17d, Lot 19, Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f, Lot 2a, Lot 2f, Lot 3 (NEW), Lot 3 (OLD), Lot 4a, Lot 4b, Lot 4h, Lot 6, Lot 9b, MM, N1/4/6/8/9, N3/7, N5, NN, O1/3, O5, P, PH1, Q, Q1, QQ, R, R2, RR, S3/4, S7/8, S9, SA, SDG, SDStar, SS, Stadium Drive Garage, T, TT, TV, U1, U2, UU, V, VM, W, W2, X, XX, Y, YC, YY, Z,
+False positives: 0
+Total eligible counts: 87
+Eligible lots found: 86
+
+Customer 7:
+Allowed parking spots on 11/06/2024 at 155500 with Permit A
+Summary: A, K, Lot 11b, Lot 15, Lot 16a, Lot 16b, Lot 16f, Lot 17a, Lot 17b, Lot 17c, Lot 17d, Lot 19, Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f, Lot 2a, Lot 3 (NEW), Lot 3 (OLD), Lot 4a, Lot 4b, Lot 4h, Lot 6, Lot 9b, P, Stadium Drive Garage, U1, U2, V, X, XX, Z,
+False positives: 0
+Total eligible counts: 34
+Eligible lots found: 33
+
+Customer 8:
+Allowed parking spots on 02/19/2024 at 73500 with Permit Z
+Summary:
+False positives: 0
+Total eligible counts: 36
+Eligible lots found: 0
+
+Customer 9:
+Allowed parking spots on 05/03/2024 at 243500 with Permit Z
+Summary:
+False positives: 0
+Total eligible counts: 36
+Eligible lots found: 0
+
+Customer 10:
+Allowed parking spots on 07/30/2024 at 84500 with Permit No Permits
+Summary:
+False positives: 0
+Total eligible counts: 8
+Eligible lots found: 0
+
+Customer 11:
+Allowed parking spots on 06/18/2024 at 103000 with Permit P
+Summary: K, Lot 11b, Lot 15, Lot 16a, Lot 16b, Lot 16f, Lot 17a, Lot 17b, Lot 17c, Lot 17d, Lot 19, Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f, Lot 2a, Lot 3 (NEW), Lot 3 (OLD), Lot 4a, Lot 4b, Lot 4h, Lot 6, Lot 9b, P, Stadium Drive Garage, U1, U2, V, X, XX, Z,
+False positives: 2
+Total eligible counts: 34
+Eligible lots found: 28
+
+Customer 12:
+Allowed parking spots on 11/11/2024 at 143000 with Permit Q
+Summary: K, Lot 11b, Lot 15, Lot 16a, Lot 16b, Lot 16f, Lot 17a, Lot 17b, Lot 17c, Lot 17d, Lot 19, Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f, Lot 2a, Lot 3 (NEW), Lot 3 (OLD), Lot 4a, Lot 4b, Lot 4h, Lot 6, Lot 9b, P, Q, Q1, Stadium Drive Garage, U1, U2, V, X, XX, Z,
+False positives: 0
+Total eligible counts: 34
+Eligible lots found: 34
+
+Customer 13:
+Allowed parking spots on 05/05/2025 at 233500 with Permit B
+Summary: HH, Lot 15, Lot 16a, Lot 16b, Lot 16f, Lot 17a, Lot 17b, Lot 17c, Lot 17d, Lot 19, Lot 2a, Lot 3 (NEW), Lot 3 (OLD), Q, Stadium Drive Garage, U1, U2, V,
+False positives: 0
+Total eligible counts: 80
+Eligible lots found: 18
+
+Customer 14:
+Allowed parking spots on 06/12/2025 at 90000 with Permit HH
+Summary: B, HH, K, Lot 11b, Lot 15, Lot 16a, Lot 16b, Lot 16f, Lot 17a, Lot 17b, Lot 17c, Lot 17d, Lot 19, Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f, Lot 2a, Lot 3 (NEW), Lot 3 (OLD), Lot 4a, Lot 4b, Lot 4h, Lot 6, Lot 9b, Meter/Pay Station Area, P, Stadium Drive Garage, U1, U2, V, X, XX, Z,
+False positives: 1
+Total eligible counts: 83
+Eligible lots found: 34
+
+Customer 15:
+Allowed parking spots on 02/24/2025 at 103500 with Permit FAE
+Summary:
+False positives: 0
+Total eligible counts: 55
+Eligible lots found: 0
+
+Customer 16:
+Allowed parking spots on 07/24/2024 at 190000 with Permit No Permits
+Summary:
+False positives: 0
+Total eligible counts: 22
+Eligible lots found: 0
+
+Customer 17:
+Allowed parking spots on 09/24/2024 at 141500 with Permit Z
+Summary:
+False positives: 0
+Total eligible counts: 17
+Eligible lots found: 0
+
+Customer 18:
+Allowed parking spots on 03/28/2025 at 211500 with Permit K
+Summary: HH, Lot 15, Lot 16a, Lot 16b, Lot 16f, Lot 17a, Lot 17b, Lot 17c, Lot 17d, Lot 19, Lot 2a, Lot 3 (NEW), Lot 3 (OLD), Q, Stadium Drive Garage, U1, U2, V,
+False positives: 16
+Total eligible counts: 18
+Eligible lots found: 2
+
+Customer 19:
+Allowed parking spots on 01/31/2025 at 114500 with Permit Z
+Summary:
+False positives: 0
+Total eligible counts: 17
+Eligible lots found: 0
+
+Customer 20:
+Allowed parking spots on 07/28/2025 at 185500 with Permit Emeritus
+Summary: HH,
+False positives: 0
+Total eligible counts: 87
+Eligible lots found: 1
+
+Customer 21:
+Allowed parking spots on 12/18/2024 at 134500 with Permit C
+Summary: C1, C2, K, Lot 11b, Lot 15, Lot 16a, Lot 16b, Lot 16f, Lot 17a, Lot 17b, Lot 17c, Lot 17d, Lot 19, Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f, Lot 2a, Lot 3 (NEW), Lot 3 (OLD), Lot 4a, Lot 4b, Lot 4h, Lot 6, Lot 9b, P, Stadium Drive Garage, U1, U2, V, X, XX, Z,
+False positives: 4
+Total eligible counts: 37
+Eligible lots found: 28
+
+Customer 22:
+Allowed parking spots on 04/11/2025 at 71500 with Permit Z
+Summary:
+False positives: 0
+Total eligible counts: 36
+Eligible lots found: 0
+
+Customer 23:
+Allowed parking spots on 07/03/2025 at 105500 with Permit Lot 1
+Summary: Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f,
+False positives: 0
+Total eligible counts: 5
+Eligible lots found: 5
+
+Customer 47:
+Allowed parking spots on 07/04/2024 at 234500 with Permit MCR
+Summary:
+False positives: 0
+Total eligible counts: 1
+Eligible lots found: 0
+
+Customer 24:
+Allowed parking spots on 04/22/2025 at 43000 with Permit Lot 2
+Summary: Lot 11b, Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f, Lot 2a, Lot 2f, Lot 3 (NEW), Lot 4a, Lot 4b, Lot 4h, Lot 4m, Lot 4n, Lot 6, Lot 9b,
+False positives: 0
+Total eligible counts: 16
+Eligible lots found: 16
+
+Customer 25:
+Allowed parking spots on 12/02/2024 at 43000 with Permit Lot 19
+Summary: Lot 11b, Lot 19, Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f, Lot 3 (NEW), Lot 4a, Lot 4b, Lot 4h, Lot 4m, Lot 4n, Lot 6, Lot 9b,
+False positives: 4
+Total eligible counts: 11
+Eligible lots found: 11
+
+Customer 26:
+Allowed parking spots on 07/23/2025 at 101500 with Permit No Permits
+Summary:
+False positives: 0
+Total eligible counts: 8
+Eligible lots found: 0
+
+Customer 27:
+Allowed parking spots on 03/03/2024 at 184500 with Permit No Permits
+Summary: Lot 11b, Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f, Lot 4a, Lot 4b, Lot 4h, Lot 4m, Lot 4n, Lot 6, Lot 9b,
+False positives: 0
+Total eligible counts: 22
+Eligible lots found: 13
+
+Customer 28:
+Allowed parking spots on 09/20/2024 at 94500 with Permit No Permits
+Summary:
+False positives: 0
+Total eligible counts: 8
+Eligible lots found: 0
+
+Customer 29:
+Allowed parking spots on 03/07/2025 at 71500 with Permit Lot 3
+Summary: Lot 3 (NEW), Lot 3 (OLD),
+False positives: 0
+Total eligible counts: 25
+Eligible lots found: 2
+
+Customer 30:
+Allowed parking spots on 02/26/2024 at 61500 with Permit Lot 16
+Summary: Lot 16a, Lot 16b, Lot 16f,
+False positives: 0
+Total eligible counts: 3
+Eligible lots found: 3
+
+Customer 31:
+Allowed parking spots on 04/15/2024 at 120000 with Permit Lot 17
+Summary:
+False positives: 0
+Total eligible counts: 42
+Eligible lots found: 0
+
+Customer 32:
+Allowed parking spots on 11/19/2024 at 44500 with Permit Lot 9
+Summary:
+False positives: 0
+Total eligible counts: 1
+Eligible lots found: 0
+
+Customer 33:
+Allowed parking spots on 10/29/2024 at 74500 with Permit Lot 1
+Summary: Lot 1b, Lot 1c, Lot 1d, Lot 1e, Lot 1f,
+False positives: 0
+Total eligible counts: 5
+Eligible lots found: 5
+
+Customer 34:
+Allowed parking spots on 12/5/2024 at 244500 with Permit Lot 2
+Summary:
+False positives: 0
+Total eligible counts: 16
+Eligible lots found: 0
+
+Customer 35:
+Allowed parking spots on 11/04/2024 at 200000 with Permit Lot 3
+Summary: Lot 3 (NEW), Lot 3 (OLD),
+False positives: 0
+Total eligible counts: 15
+Eligible lots found: 2
+
+Customer 36:
+Allowed parking spots on 02/28/2024 at 193000 with Permit Lot 6
+Summary:
+False positives: 0
+Total eligible counts: 14
+Eligible lots found: 0
+
+Customer 37:
+Allowed parking spots on 08/12/2025 at 244500 with Permit Lot 4/6
+Summary:
+False positives: 0
+Total eligible counts: 2
+Eligible lots found: 0
+
+Customer 38:
+Allowed parking spots on 01/24/2024 at 90000 with Permit Lot 2
+Summary: Lot 2a, Lot 2f,
+False positives: 0
+Total eligible counts: 16
+Eligible lots found: 2
+
+Customer 39:
+Allowed parking spots on 02/06/2024 at 34500 with Permit Lot 11
+Summary:
+False positives: 0
+Total eligible counts: 10
+Eligible lots found: 0
+
+Customer 48:
+Allowed parking spots on 03/20/2024 at 103000 with Permit MC
+Summary: Motorcycle,
+False positives: 0
+Total eligible counts: 1
+Eligible lots found: 1
+
+Customer 49:
+Allowed parking spots on 04/15/2025 at 30000 with Permit Lot 8
+Summary: Lot 8,
+False positives: 0
+Total eligible counts: 1
+Eligible lots found: 1
+
+Customer 50:
+Allowed parking spots on 03/13/2025 at 184500 with Permit Lot 1 / DD
+Summary:
+False positives: 0
+Total eligible counts: 26
+Eligible lots found: 0
+
+Cumulative summary: All false positives we produced: 28
+Total eligible lots count (Parking lots we should have found): 1068
+Total eligible lots we found: 342
+
+C:\Users\Brennen\source\repos\IC25074_Project\Debug\IC25074_Project.exe (process 42620) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
