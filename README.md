@@ -1,5 +1,5 @@
 # Teriffic Terps (Team IC25074) DOTS AI for Info Challenge 2025
-[Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQQi2smkgognaUdP5ypd7NR7bjI8QTOwbNyEChV5h6wJ_dEeWdy_uUBMpUOkJ8Shw/pub?start=false&loop=false&delayms=3000&slide=id.p1) {:target="_blank"}
+[Presentation]([https://docs.google.com/presentation/d/e/2PACX-1vQQi2smkgognaUdP5ypd7NR7bjI8QTOwbNyEChV5h6wJ_dEeWdy_uUBMpUOkJ8Shw/pub?start=false&loop=false&delayms=3000&slide=id.p1] {:target="_blank"})
 ## Challenge Background 
 Across University of Maryland's campus, there are more than 50 parking areas, including parking garages, surface lots, meter spaces, and other parking structures. Each parking area has specific permissions that vary by time of day, community member, special events, and other considerations. Parking is regularly enforced on campus, with violations issued for 15 different violation types. 
 
